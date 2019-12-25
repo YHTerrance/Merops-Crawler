@@ -1,3 +1,5 @@
-# ItC-Python
-## Team Members
-B08902077 李子明 B08902073 陳宇浩 B08902053 林承濬
+# ItC-python-hw-sample-code
+TA sample codes for Introduction to Computer 
+ 
+# Spec
+Please reference to the [homework spec](https://hackmd.io/@18uoJVgyT9KMeCBZDWu9Ng/HkgFEpyRr)
