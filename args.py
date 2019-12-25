@@ -17,4 +17,4 @@ def get_args():
     args.start_date = datetime.strptime(args.start_date, "%Y-%m-%d")
     args.end_date = datetime.strptime(args.end_date, "%Y-%m-%d")
     #change datatype into time format
-    return args
+   return args
