@@ -29,6 +29,7 @@ class Crawler(object):
                 contents += rets
             if last_date < start_date:
                 break
+        
         return contents
 
     def crawl_page(self, start_date, end_date, page=''):
@@ -57,10 +58,7 @@ class Crawler(object):
         dates = root.xpath('//tr/td[1]/text()')
         titles = root.xpath('//tr/td[2]/a/text()')
         rel_urls = root.xpath('//tr/td[2]/a/@href')
-        
-        import pdb
-        pdb.set_trace()
-        
+
         for (date, title, rel_url) in (zip(dates, titles, rel_urls)):
             date = datetime.strptime(date, '%Y-%m-%d')
             last_date = end_date
@@ -85,4 +83,8 @@ class Crawler(object):
         then you are to crawl contents of
         ``Title : 我與DeepMind的A.I.研究之路, My A.I. Journey with DeepMind Date : 2019-12-27 2:20pm-3:30pm Location : R103, CSIE Speaker : 黃士傑博士, DeepMind Hosted by : Prof. Shou-De Lin Abstract: 我將與同學們分享，我博士班研究到加入DeepMind所參與的projects (AlphaGo, AlphaStar與AlphaZero)，以及從我個人與DeepMind的視角對未來AI發展的展望。 Biography: 黃士傑, Aja Huang 台灣人，國立臺灣師範大學資訊工程研究所博士，現為DeepMind Staff Research Scientist。``
         """
-        raise NotImplementedError
+        res = requests.get(url).content.decode()
+        parser = etree.HTML(res)
+        xpath = '/html/body/div[1]/div/div[2]/div/div/div[2]/div/div[2]/text()'
+        content = parser.xpath(xpath)[0]
+        return content
