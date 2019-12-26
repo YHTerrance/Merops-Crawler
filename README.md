@@ -1,5 +1,5 @@
-# ItC-python-hw-sample-code
-TA sample codes for Introduction to Computer 
- 
-# Spec
-Please reference to the [homework spec](https://hackmd.io/@18uoJVgyT9KMeCBZDWu9Ng/HkgFEpyRr)
+# ItC-Python
+## args.py
+This is the code of args.
+This code is for scanning the start date and end date.
+Also, it helps to output the file name.
