@@ -8,6 +8,11 @@ if __name__ == '__main__':
     contents = crawler.crawl(args.start_date, args.end_date)
     with open(args.output, "w") as fp:
         for (date, title, content) in contents:
+            title = title.replace('\n',' ').replace('\r','')
+            title = title.replace('\"','\"\"')
+            title = title.replace('\xa0','')
+            content = content.replace('\n',' ').replace('\r','')
+            content = content.replace('\"','\"\"')
             content = content.replace('\xa0','')
             out_str = f'"{str(date)}", "{title}", "{content}"\n'
             fp.write(out_str)
