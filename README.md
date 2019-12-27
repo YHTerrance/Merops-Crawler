@@ -12,7 +12,7 @@ This python crawler project basically snatches data from the bulletin board of t
 
 ## Environment
 
-B08902077 李子明 Windows git 2.24.1, Python 3.7.3, lxml == 4.4.2, requests == 2.22.  
+B08902077 李子明 Windows git 2.24.1, Python 3.7.3, lxml == 4.4.2, requests == 2.22.0  
 B08902073 陳宇浩 Mac Catalina 10.15.1, Python 3.7.3, lxml == 4.4.1, requests == 2.22.0  
 B08902053 林承濬 Windows git 2.24.1, Python 3.6.5, lxml == 4.4.2, requests == 2.22.0  
 
