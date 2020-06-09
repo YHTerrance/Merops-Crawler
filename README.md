@@ -2,4 +2,21 @@
 
 ## Brief Introduction
 
-This python crawler project basically snatches data from the bulletin board of the NTU CSIE website, and saves them as .csv files accordingly. The information that is crawled from the internet can be specified by the user by entering the start date, end date, and output filename. All spaces and newlines in the text will be removed to make the data more readable. Moreover, strings are enclosed by pairs of double quotation marks, while any double quote within the string will be replaced by 2 double quotation marks.
+This crawler project collects data from MEROPS[https://www.ebi.ac.uk/merops/index.shtml] and then organizes the peptidases that are able to cut the Spike protein or the Ace2 of nCoV-19.
+
+### main.py
+
+The main crawler program that crawls data from MEROPS and then stores it in merops.csv using Python 3.7.7, BeautifulSoup, and Pandas.
+
+### main.cpp
+
+The main program that sifts through merops.csv to find the peptidase that can cut the Ace2 protein or the Spike protein, the result is outputted in standard output, which we directed to Peptidases.txt.
+
+### OnlySpike.txt
+
+A list of all the meropIDs and cleavage sites of peptidases that cut only the Spike protein but not the Ace2 protein.
+
+### OnlyAce2.txt
+
+A list of all the meropIDs and cleavage sites of peptidases that cut only the Ace2 protein but not the Spike protein.
+
