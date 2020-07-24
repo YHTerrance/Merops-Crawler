@@ -2,7 +2,7 @@
 
 ## Brief Introduction
 
-This crawler project collects data from MEROPS[https://www.ebi.ac.uk/merops/index.shtml] and then organizes the peptidases that are able to cut the Spike protein or the Ace2 of nCoV-19.
+This crawler project collects data from [MEROPS](https://www.ebi.ac.uk/merops/index.shtml) and then organizes the peptidases that are able to cut the Spike protein or the Ace2 of nCoV-19.
 
 ### main.py
 
