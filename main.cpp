@@ -42,31 +42,31 @@ void findCutSites(string& meropsID, string& cleavageSite, string& cutSequence, o
         cout << "Can not open ace2Sequence" << endl;
 
     string ace2Sequence, spSequence, input;
-    
+
     while(getline(fin1, input))
         spSequence += input;
     int spLen = spSequence.length();
-    
+
     while(getline(fin2, input))
         ace2Sequence += input;
     int ace2Len = ace2Sequence.length();
 
     if(cutSequence.find("!") != string::npos || cutSequence == "********")
         return;
-    
+
     while(cutSequence.find("*") != string::npos)
     {
         int index = cutSequence.find("*");
-        cutSequence.replace(index, 1, "[A-Z]");     
+        cutSequence.replace(index, 1, "[A-Z]");
     }
 
     #ifdef DEBUG
     cout << "cutSequence " << cutSequence << endl;
     #endif
-    
-    regex e(cutSequence.c_str()); 
+
+    regex e(cutSequence.c_str());
     smatch res;
-    
+
     string::const_iterator searchStart( spSequence.cbegin() );
     bool found1 = false;
     while (regex_search( searchStart, spSequence.cend(), res, e ))
@@ -83,12 +83,12 @@ void findCutSites(string& meropsID, string& cleavageSite, string& cutSequence, o
         found1 = true;
         int start = spSequence.find(res[0].str());
         cout << "from " << setw(5) << start + 1 << " to " <<  setw(5) << start + res[0].str().length();
-        cout << setw(12) << res[0] << endl;  
+        cout << setw(12) << res[0] << endl;
         searchStart = res.suffix().first - 7;
     }
     if(found1)
         cout << "========================" << endl;
-    
+
     searchStart = ace2Sequence.cbegin();
     bool found2 = false;
     while (regex_search( searchStart, ace2Sequence.cend(), res, e ))
@@ -101,16 +101,16 @@ void findCutSites(string& meropsID, string& cleavageSite, string& cutSequence, o
             cout << "CutSequence: " << cutSequence << endl;
             cout << "Found in the Ace2 protein sequence: " << endl;
         }
-        
+
         found2 = true;
         int start = ace2Sequence.find(res[0].str());
         cout << "from " << setw(5) << start + 1 << " to " <<  setw(5) << start + res[0].str().length();
-        cout << setw(12) << res[0] << endl;  
+        cout << setw(12) << res[0] << endl;
         searchStart = res.suffix().first - 7;
     }
     if(found2)
-        cout << "========================" << endl;    
-    
+        cout << "========================" << endl;
+
     if(found1 && !found2)
         foutSpike << meropsID << " " << cleavageSite << endl;
     if(!found1 && found2)
@@ -157,7 +157,7 @@ int main()
                     line[i] = "!";
                 cutSequence += line[i];
             }
-            findCutSites(meropsID, cleavageSite, cutSequence, foutSpike, foutAce2);    
+            findCutSites(meropsID, cleavageSite, cutSequence, foutSpike, foutAce2);
         }
         line = getNextLineAndSplitIntoTokens(finCSV);
     }
