@@ -2,14 +2,14 @@
 MeropsID: C01.013
 CleavageSite: Val-Leu+Ser
 CutSequence: [A-Z][A-Z]VLS[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   178 to   185    VVVLSFEL
 ========================
 ========================
 MeropsID: C01.013
 CleavageSite: Val-Leu+Ser
 CutSequence: [A-Z][A-Z]VLS[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   105 to   112    SSVLSEDK
 ========================
 
@@ -17,7 +17,7 @@ from   105 to   112    SSVLSEDK
 MeropsID: C01.013
 CleavageSite: Val-Leu-Ser+Glu
 CutSequence: [A-Z]VLSE[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   106 to   113    SVLSEDKS
 ========================
 
@@ -25,14 +25,14 @@ from   106 to   113    SVLSEDKS
 MeropsID: C01.026
 CleavageSite: Cys+Asn
 CutSequence: [A-Z][A-Z][A-Z]CN[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   145 to   152    STPCNGVE
 ========================
 ========================
 MeropsID: C01.026
 CleavageSite: Cys+Asn
 CutSequence: [A-Z][A-Z][A-Z]CN[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   130 to   137    GKVCNPDN
 ========================
 
@@ -40,7 +40,7 @@ from   130 to   137    GKVCNPDN
 MeropsID: C01.026
 CleavageSite: Cys+Gln
 CutSequence: [A-Z][A-Z][A-Z]CQ[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   527 to   534    EALCQAAK
 ========================
 
@@ -48,7 +48,7 @@ from   527 to   534    EALCQAAK
 MeropsID: C01.026
 CleavageSite: Gln+Asn
 CutSequence: [A-Z][A-Z][A-Z]QN[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    57 to    64    ENVQNMNN
 from    86 to    93    QEIQNLTV
 from    99 to   106    ALQQNGSS
@@ -59,7 +59,7 @@ from   595 to   602    LKDQNKNS
 MeropsID: C01.026
 CleavageSite: Gln+Gln
 CutSequence: [A-Z][A-Z][A-Z]QQ[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    98 to   105    QALQQNGS
 ========================
 
@@ -67,7 +67,7 @@ from    98 to   105    QALQQNGS
 MeropsID: C01.026
 CleavageSite: Gln+Lys
 CutSequence: [A-Z][A-Z][A-Z]QK[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   284 to   291    PFGQKPNI
 from   337 to   344    GNVQKAVC
 from   549 to   556    EAGQKLFN
@@ -77,14 +77,14 @@ from   549 to   556    EAGQKLFN
 MeropsID: C01.026
 CleavageSite: Leu+Asn
 CutSequence: [A-Z][A-Z][A-Z]LN[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    52 to    59    PTKLNDLC
 ========================
 ========================
 MeropsID: C01.026
 CleavageSite: Leu+Asn
 CutSequence: [A-Z][A-Z][A-Z]LN[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   113 to   120    SKRLNTIL
 from   117 to   124    NTILNTMS
 from   145 to   152    EPGLNEIM
@@ -96,14 +96,14 @@ from   714 to   721    AFRLNDNS
 MeropsID: C01.026
 CleavageSite: Leu+Gln
 CutSequence: [A-Z][A-Z][A-Z]LQ[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   157 to   164    YFPLQSYG
 ========================
 ========================
 MeropsID: C01.026
 CleavageSite: Leu+Gln
 CutSequence: [A-Z][A-Z][A-Z]LQ[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    82 to    89    MYPLQEIQ
 from    92 to    99    TVKLQLQA
 from    94 to   101    KLQLQALQ
@@ -114,14 +114,14 @@ from    97 to   104    LQALQQNG
 MeropsID: C01.026
 CleavageSite: Leu+Lys
 CutSequence: [A-Z][A-Z][A-Z]LK[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   126 to   133    KSNLKPFE
 ========================
 ========================
 MeropsID: C01.026
 CleavageSite: Leu+Lys
 CutSequence: [A-Z][A-Z][A-Z]LK[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    70 to    77    SAFLKEQS
 from   183 to   190    YVVLKNEM
 from   415 to   422    PKHLKSIG
@@ -136,7 +136,7 @@ from   672 to   679    VANLKPRI
 MeropsID: C01.026
 CleavageSite: Met+Asn
 CutSequence: [A-Z][A-Z][A-Z]MN[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    59 to    66    VQNMNNAG
 from   246 to   253    AKLMNAYP
 from   576 to   583    AKNMNVRP
@@ -146,7 +146,7 @@ from   576 to   583    AKNMNVRP
 MeropsID: C01.026
 CleavageSite: Met+Lys
 CutSequence: [A-Z][A-Z][A-Z]MK[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   471 to   478    DQWMKKWW
 from   477 to   484    WWEMKREI
 ========================
@@ -155,7 +155,7 @@ from   477 to   484    WWEMKREI
 MeropsID: C01.027
 CleavageSite: Arg+Ala
 CutSequence: [A-Z][A-Z][A-Z]RA[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   189 to   196    EMARANHY
 from   242 to   249    AYVRAKLM
 ========================
@@ -164,7 +164,7 @@ from   242 to   249    AYVRAKLM
 MeropsID: C01.027
 CleavageSite: Arg-Ser
 CutSequence: [A-Z][A-Z][A-Z]RS[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   166 to   173    ESWRSEVG
 from   641 to   648    YLFRSSVA
 from   705 to   712    RMSRSRIN
@@ -174,7 +174,7 @@ from   705 to   712    RMSRSRIN
 MeropsID: C01.027
 CleavageSite: Arg+Thr
 CutSequence: [A-Z][A-Z][A-Z]RT[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   515 to   522    YYTRTLYQ
 from   694 to   701    IIPRTEVE
 ========================
@@ -183,14 +183,14 @@ from   694 to   701    IIPRTEVE
 MeropsID: C01.027
 CleavageSite: Asn+Ala
 CutSequence: [A-Z][A-Z][A-Z]NA[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from     8 to    15    EVFNATRF
 ========================
 ========================
 MeropsID: C01.027
 CleavageSite: Asn+Ala
 CutSequence: [A-Z][A-Z][A-Z]NA[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    61 to    68    NMNNAGDK
 from   247 to   254    KLMNAYPS
 ========================
@@ -199,7 +199,7 @@ from   247 to   254    KLMNAYPS
 MeropsID: C01.027
 CleavageSite: Asn+Ser
 CutSequence: [A-Z][A-Z][A-Z]NS[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    35 to    42    VLYNSASF
 from   102 to   109    IAWNSNNL
 ========================
@@ -207,7 +207,7 @@ from   102 to   109    IAWNSNNL
 MeropsID: C01.027
 CleavageSite: Asn+Ser
 CutSequence: [A-Z][A-Z][A-Z]NS[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   151 to   158    IMANSLDY
 from   327 to   334    FWENSMLT
 from   543 to   550    DISNSTEA
@@ -219,7 +219,7 @@ from   717 to   724    LNDNSLEF
 MeropsID: C01.027
 CleavageSite: Asn+Thr
 CutSequence: [A-Z][A-Z][A-Z]NT[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    48 to    55    WNYNTNIT
 from   114 to   121    KRLNTILN
 from   118 to   125    TILNTMST
@@ -229,7 +229,7 @@ from   118 to   125    TILNTMST
 MeropsID: C01.027
 CleavageSite: Glu+Ala
 CutSequence: [A-Z][A-Z][A-Z]EA[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    32 to    39    FNHEAEDL
 from   307 to   314    IFKEAEKF
 from   399 to   406    GFHEAVGE
@@ -241,7 +241,7 @@ from   546 to   553    NSTEAGQK
 MeropsID: C01.027
 CleavageSite: Glu+Ser
 CutSequence: [A-Z][A-Z][A-Z]ES[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   163 to   170    WAWESWRS
 ========================
 
@@ -249,7 +249,7 @@ from   163 to   170    WAWESWRS
 MeropsID: C01.027
 CleavageSite: Glu+Thr
 CutSequence: [A-Z][A-Z][A-Z]ET[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   430 to   437    EDNETEIN
 from   492 to   499    PHDETYCD
 ========================
@@ -258,7 +258,7 @@ from   492 to   499    PHDETYCD
 MeropsID: C01.027
 CleavageSite: Lys+Ala
 CutSequence: [A-Z][A-Z][A-Z]KA[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   338 to   345    NVQKAVCH
 from   628 to   635    LGDKAYEW
 from   699 to   706    EVEKAIRM
@@ -268,14 +268,14 @@ from   699 to   706    EVEKAIRM
 MeropsID: C01.027
 CleavageSite: Lys+Ser
 CutSequence: [A-Z][A-Z][A-Z]KS[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   123 to   130    LFRKSNLK
 ========================
 ========================
 MeropsID: C01.027
 CleavageSite: Lys+Ser
 CutSequence: [A-Z][A-Z][A-Z]KS[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   109 to   116    SEDKSKRL
 from   416 to   423    KHLKSIGL
 from   559 to   566    RLGKSEPW
@@ -286,7 +286,7 @@ from   622 to   629    ISLKSALG
 MeropsID: C01.027
 CleavageSite: Lys+Thr
 CutSequence: [A-Z][A-Z][A-Z]KT[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    23 to    30    EQAKTFLD
 ========================
 
@@ -294,7 +294,7 @@ from    23 to    30    EQAKTFLD
 MeropsID: C01.084
 CleavageSite: Leu+Gly
 CutSequence: [A-Z][A-Z][A-Z]LG[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   264 to   271    AHLLGDMW
 from   348 to   355    AWDLGKGD
 from   557 to   564    MLRLGKSE
@@ -307,14 +307,14 @@ from   728 to   735    QPTLGPPN
 MeropsID: C69.001
 CleavageSite: Leu+Leu
 CutSequence: [A-Z][A-Z][A-Z]LL[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   182 to   189    SFELLHAP
 ========================
 ========================
 MeropsID: C69.001
 CleavageSite: Leu+Leu
 CutSequence: [A-Z][A-Z][A-Z]LL[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from     4 to    11    SSWLLLSL
 from     5 to    12    SWLLLSLV
 from   139 to   146    QECLLLEP
@@ -330,7 +330,7 @@ from   581 to   588    VRPLLNYF
 MeropsID: C69.001
 CleavageSite: Phe+Leu
 CutSequence: [A-Z][A-Z][A-Z]FL[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    25 to    32    AKTFLDKF
 from    69 to    76    WSAFLKEQ
 from   366 to   373    MDDFLTAH
@@ -344,14 +344,14 @@ from   721 to   728    SLEFLGIQ
 MeropsID: C69.002
 CleavageSite: Arg+Gly
 CutSequence: [A-Z][A-Z][A-Z]RG[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    68 to    75    FVIRGDEV
 ========================
 ========================
 MeropsID: C69.002
 CleavageSite: Arg+Gly
 CutSequence: [A-Z][A-Z][A-Z]RG[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   201 to   208    DYWRGDYE
 from   216 to   223    DYSRGQLI
 ========================
@@ -360,14 +360,14 @@ from   216 to   223    DYSRGQLI
 MeropsID: C69.002
 CleavageSite: Arg+Phe
 CutSequence: [A-Z][A-Z][A-Z]RF[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    11 to    18    NATRFASV
 ========================
 ========================
 MeropsID: C69.002
 CleavageSite: Arg+Phe
 CutSequence: [A-Z][A-Z][A-Z]RF[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   270 to   277    MWGRFWTN
 ========================
 
@@ -375,7 +375,7 @@ from   270 to   277    MWGRFWTN
 MeropsID: C69.002
 CleavageSite: Arg+Pro
 CutSequence: [A-Z][A-Z][A-Z]RP[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   174 to   181    KQLRPLYE
 from   579 to   586    MNVRPLLN
 ========================
@@ -384,7 +384,7 @@ from   579 to   586    MNVRPLLN
 MeropsID: C9B.001
 CleavageSite: Ile+Glu
 CutSequence: [A-Z][A-Z][A-Z]IE[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    18 to    25    QSTIEEQA
 from   220 to   227    GQLIEDVE
 ========================
@@ -393,7 +393,7 @@ from   220 to   227    GQLIEDVE
 MeropsID: M01.001
 CleavageSite: Ala+Phe
 CutSequence: [A-Z][A-Z][A-Z]AF[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    68 to    75    KWSAFLKE
 from   711 to   718    INDAFRLN
 ========================
@@ -402,7 +402,7 @@ from   711 to   718    INDAFRLN
 MeropsID: M01.001
 CleavageSite: Ala+Trp
 CutSequence: [A-Z][A-Z][A-Z]AW[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    17 to    24    SVYAWNRK
 from   100 to   107    CVIAWNSN
 ========================
@@ -410,7 +410,7 @@ from   100 to   107    CVIAWNSN
 MeropsID: M01.001
 CleavageSite: Ala+Trp
 CutSequence: [A-Z][A-Z][A-Z]AW[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   161 to   168    RLWAWESW
 from   298 to   305    VDQAWDAQ
 from   345 to   352    HPTAWDLG
@@ -420,7 +420,7 @@ from   345 to   352    HPTAWDLG
 MeropsID: M01.001
 CleavageSite: Glu+Trp
 CutSequence: [A-Z][A-Z][A-Z]EW[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   631 to   638    KAYEWNDN
 ========================
 
@@ -428,7 +428,7 @@ from   631 to   638    KAYEWNDN
 MeropsID: M01.001
 CleavageSite: Gly+Trp
 CutSequence: [A-Z][A-Z][A-Z]GW[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   602 to   609    SFVGWSTD
 ========================
 
@@ -436,14 +436,14 @@ from   602 to   609    SFVGWSTD
 MeropsID: M01.001
 CleavageSite: Gly+Tyr
 CutSequence: [A-Z][A-Z][A-Z]GY[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   169 to   176    NGVGYQPY
 ========================
 ========================
 MeropsID: M01.001
 CleavageSite: Gly+Tyr
 CutSequence: [A-Z][A-Z][A-Z]GY[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   211 to   218    GVDGYDYS
 ========================
 
@@ -451,14 +451,14 @@ from   211 to   218    GVDGYDYS
 MeropsID: M01.001
 CleavageSite: Leu+Phe
 CutSequence: [A-Z][A-Z][A-Z]LF[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   120 to   127    LYRLFRKS
 ========================
 ========================
 MeropsID: M01.001
 CleavageSite: Leu+Phe
 CutSequence: [A-Z][A-Z][A-Z]LF[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    36 to    43    AEDLFYQS
 from   500 to   507    PASLFHVS
 from   551 to   558    GQKLFNML
@@ -471,7 +471,7 @@ from   661 to   668    QMILFGEE
 MeropsID: M01.001
 CleavageSite: Leu+Trp
 CutSequence: [A-Z][A-Z][A-Z]LW[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   159 to   166    NERLWAWE
 ========================
 
@@ -479,7 +479,7 @@ from   159 to   166    NERLWAWE
 MeropsID: M01.001
 CleavageSite: Leu+Tyr
 CutSequence: [A-Z][A-Z][A-Z]LY[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    33 to    40    YSVLYNSA
 from   117 to   124    YNYLYRLF
 ========================
@@ -487,7 +487,7 @@ from   117 to   124    YNYLYRLF
 MeropsID: M01.001
 CleavageSite: Leu+Tyr
 CutSequence: [A-Z][A-Z][A-Z]LY[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   176 to   183    LRPLYEEY
 from   233 to   240    IKPLYEHL
 from   275 to   282    WTNLYSLT
@@ -498,14 +498,14 @@ from   517 to   524    TRTLYQFQ
 MeropsID: M01.001
 CleavageSite: Phe+Gly
 CutSequence: [A-Z][A-Z][A-Z]FG[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from     3 to    10    LCPFGEVF
 ========================
 ========================
 MeropsID: M01.001
 CleavageSite: Phe+Gly
 CutSequence: [A-Z][A-Z][A-Z]FG[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   282 to   289    TVPFGQKP
 from   662 to   669    MILFGEED
 ========================
@@ -514,7 +514,7 @@ from   662 to   669    MILFGEED
 MeropsID: M01.001
 CleavageSite: Phe+Leu
 CutSequence: [A-Z][A-Z][A-Z]FL[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    25 to    32    AKTFLDKF
 from    69 to    76    WSAFLKEQ
 from   366 to   373    MDDFLTAH
@@ -528,7 +528,7 @@ from   721 to   728    SLEFLGIQ
 MeropsID: M01.001
 CleavageSite: Pro+Phe
 CutSequence: [A-Z][A-Z][A-Z]PF[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from     2 to     9    NLCPFGEV
 from   128 to   135    NLKPFERD
 ========================
@@ -536,7 +536,7 @@ from   128 to   135    NLKPFERD
 MeropsID: M01.001
 CleavageSite: Pro+Phe
 CutSequence: [A-Z][A-Z][A-Z]PF[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   281 to   288    LTVPFGQK
 from   386 to   393    AAQPFLLR
 from   448 to   455    GTLPFTYM
@@ -546,7 +546,7 @@ from   448 to   455    GTLPFTYM
 MeropsID: M01.001
 CleavageSite: Pro+Trp
 CutSequence: [A-Z][A-Z][A-Z]PW[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   562 to   569    KSEPWTLA
 ========================
 
@@ -554,7 +554,7 @@ from   562 to   569    KSEPWTLA
 MeropsID: M01.001
 CleavageSite: Trp+Leu
 CutSequence: [A-Z][A-Z][A-Z]WL[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from     3 to    10    SSSWLLLS
 from   591 to   598    LFTWLKDQ
 ========================
@@ -563,7 +563,7 @@ from   591 to   598    LFTWLKDQ
 MeropsID: M01.001
 CleavageSite: Trp+Trp
 CutSequence: [A-Z][A-Z][A-Z]WW[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   474 to   481    MKKWWEMK
 ========================
 
@@ -571,14 +571,14 @@ from   474 to   481    MKKWWEMK
 MeropsID: M01.001
 CleavageSite: Tyr+Leu
 CutSequence: [A-Z][A-Z][A-Z]YL[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   116 to   123    NYNYLYRL
 ========================
 ========================
 MeropsID: M01.001
 CleavageSite: Tyr+Leu
 CutSequence: [A-Z][A-Z][A-Z]YL[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   638 to   645    NEMYLFRS
 ========================
 
@@ -586,14 +586,14 @@ from   638 to   645    NEMYLFRS
 MeropsID: M01.004
 CleavageSite: Arg+Gly-Asp
 CutSequence: [A-Z][A-Z][A-Z]RGD[A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    68 to    75    FVIRGDEV
 ========================
 ========================
 MeropsID: M01.004
 CleavageSite: Arg+Gly-Asp
 CutSequence: [A-Z][A-Z][A-Z]RGD[A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   201 to   208    DYWRGDYE
 ========================
 
@@ -601,14 +601,14 @@ from   201 to   208    DYWRGDYE
 MeropsID: M01.010
 CleavageSite: Arg+Leu
 CutSequence: [A-Z][A-Z][A-Z]RL[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   119 to   126    YLYRLFRK
 ========================
 ========================
 MeropsID: M01.010
 CleavageSite: Arg+Leu
 CutSequence: [A-Z][A-Z][A-Z]RL[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   112 to   119    KSKRLNTI
 from   158 to   165    YNERLWAW
 from   556 to   563    NMLRLGKS
@@ -619,7 +619,7 @@ from   713 to   720    DAFRLNDN
 MeropsID: M01.010
 CleavageSite: Gly+Trp
 CutSequence: [A-Z][A-Z][A-Z]GW[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   602 to   609    SFVGWSTD
 ========================
 
@@ -627,7 +627,7 @@ from   602 to   609    SFVGWSTD
 MeropsID: M01.010
 CleavageSite: Leu+Gly
 CutSequence: [A-Z][A-Z][A-Z]LG[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   264 to   271    AHLLGDMW
 from   348 to   355    AWDLGKGD
 from   557 to   564    MLRLGKSE
@@ -640,14 +640,14 @@ from   728 to   735    QPTLGPPN
 MeropsID: M01.010
 CleavageSite: Leu+Leu
 CutSequence: [A-Z][A-Z][A-Z]LL[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   182 to   189    SFELLHAP
 ========================
 ========================
 MeropsID: M01.010
 CleavageSite: Leu+Leu
 CutSequence: [A-Z][A-Z][A-Z]LL[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from     4 to    11    SSWLLLSL
 from     5 to    12    SWLLLSLV
 from   139 to   146    QECLLLEP
@@ -663,7 +663,7 @@ from   581 to   588    VRPLLNYF
 MeropsID: M01.010
 CleavageSite: Leu+Leu-Leu
 CutSequence: [A-Z][A-Z][A-Z]LLL[A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from     4 to    11    SSWLLLSL
 from   139 to   146    QECLLLEP
 ========================
@@ -672,14 +672,14 @@ from   139 to   146    QECLLLEP
 MeropsID: M01.010
 CleavageSite: Leu+Ser
 CutSequence: [A-Z][A-Z][A-Z]LS[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   178 to   185    VVVLSFEL
 ========================
 ========================
 MeropsID: M01.010
 CleavageSite: Leu+Ser
 CutSequence: [A-Z][A-Z][A-Z]LS[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from     6 to    13    WLLLSLVA
 from   105 to   112    SSVLSEDK
 from   407 to   414    IMSLSAAT
@@ -690,7 +690,7 @@ from   421 to   428    IGLLSPDF
 MeropsID: M01.010
 CleavageSite: Leu+Ser-Phe
 CutSequence: [A-Z][A-Z][A-Z]LSF[A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   178 to   185    VVVLSFEL
 ========================
 
@@ -698,7 +698,7 @@ from   178 to   185    VVVLSFEL
 MeropsID: M01.010
 CleavageSite: Leu+Trp
 CutSequence: [A-Z][A-Z][A-Z]LW[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   159 to   166    NERLWAWE
 ========================
 
@@ -706,7 +706,7 @@ from   159 to   166    NERLWAWE
 MeropsID: M01.010
 CleavageSite: Lys+Leu
 CutSequence: [A-Z][A-Z][A-Z]KL[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    51 to    58    SPTKLNDL
 from    89 to    96    YNYKLPDD
 ========================
@@ -714,7 +714,7 @@ from    89 to    96    YNYKLPDD
 MeropsID: M01.010
 CleavageSite: Lys+Leu
 CutSequence: [A-Z][A-Z][A-Z]KL[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    91 to    98    LTVKLQLQ
 from   244 to   251    VRAKLMNA
 from   550 to   557    AGQKLFNM
@@ -724,7 +724,7 @@ from   550 to   557    AGQKLFNM
 MeropsID: M01.010
 CleavageSite: Lys+Lys
 CutSequence: [A-Z][A-Z][A-Z]KK[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   472 to   479    QWMKKWWE
 ========================
 
@@ -732,7 +732,7 @@ from   472 to   479    QWMKKWWE
 MeropsID: M01.016
 CleavageSite: Leu+Tyr
 CutSequence: [A-Z][A-Z][A-Z]LY[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    33 to    40    YSVLYNSA
 from   117 to   124    YNYLYRLF
 ========================
@@ -740,7 +740,7 @@ from   117 to   124    YNYLYRLF
 MeropsID: M01.016
 CleavageSite: Leu+Tyr
 CutSequence: [A-Z][A-Z][A-Z]LY[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   176 to   183    LRPLYEEY
 from   233 to   240    IKPLYEHL
 from   275 to   282    WTNLYSLT
@@ -751,7 +751,7 @@ from   517 to   524    TRTLYQFQ
 MeropsID: M01.016
 CleavageSite: Phe+Leu
 CutSequence: [A-Z][A-Z][A-Z]FL[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    25 to    32    AKTFLDKF
 from    69 to    76    WSAFLKEQ
 from   366 to   373    MDDFLTAH
@@ -765,7 +765,7 @@ from   721 to   728    SLEFLGIQ
 MeropsID: M12.157
 CleavageSite: Ala+Leu
 CutSequence: [A-Z][A-Z][A-Z]AL[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    96 to   103    QLQALQQN
 from   440 to   447    LKQALTIV
 from   525 to   532    FQEALCQA
@@ -777,7 +777,7 @@ from   624 to   631    LKSALGDK
 MeropsID: M12.157
 CleavageSite: Gly+Gly
 CutSequence: [A-Z][A-Z][A-Z]GG[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   111 to   118    SKVGGNYN
 ========================
 
@@ -785,7 +785,7 @@ from   111 to   118    SKVGGNYN
 MeropsID: M12.157
 CleavageSite: Gly+Pro
 CutSequence: [A-Z][A-Z][A-Z]GP[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   534 to   541    KHEGPLHK
 from   729 to   736    PTLGPPNQ
 ========================
@@ -794,14 +794,14 @@ from   729 to   736    PTLGPPNQ
 MeropsID: M12.157
 CleavageSite: Gly+Tyr
 CutSequence: [A-Z][A-Z][A-Z]GY[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   169 to   176    NGVGYQPY
 ========================
 ========================
 MeropsID: M12.157
 CleavageSite: Gly+Tyr
 CutSequence: [A-Z][A-Z][A-Z]GY[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   211 to   218    GVDGYDYS
 ========================
 
@@ -809,7 +809,7 @@ from   211 to   218    GVDGYDYS
 MeropsID: M12.157
 CleavageSite: His+Leu
 CutSequence: [A-Z][A-Z][A-Z]HL[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   236 to   243    LYEHLHAY
 from   262 to   269    LPAHLLGD
 from   414 to   421    TPKHLKSI
@@ -819,7 +819,7 @@ from   414 to   421    TPKHLKSI
 MeropsID: M12.157
 CleavageSite: Leu+Gly
 CutSequence: [A-Z][A-Z][A-Z]LG[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   264 to   271    AHLLGDMW
 from   348 to   355    AWDLGKGD
 from   557 to   564    MLRLGKSE
@@ -832,7 +832,7 @@ from   728 to   735    QPTLGPPN
 MeropsID: M12.157
 CleavageSite: Leu+Tyr
 CutSequence: [A-Z][A-Z][A-Z]LY[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    33 to    40    YSVLYNSA
 from   117 to   124    YNYLYRLF
 ========================
@@ -840,7 +840,7 @@ from   117 to   124    YNYLYRLF
 MeropsID: M12.157
 CleavageSite: Leu+Tyr
 CutSequence: [A-Z][A-Z][A-Z]LY[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   176 to   183    LRPLYEEY
 from   233 to   240    IKPLYEHL
 from   275 to   282    WTNLYSLT
@@ -851,14 +851,14 @@ from   517 to   524    TRTLYQFQ
 MeropsID: M12.157
 CleavageSite: Tyr+Leu
 CutSequence: [A-Z][A-Z][A-Z]YL[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   116 to   123    NYNYLYRL
 ========================
 ========================
 MeropsID: M12.157
 CleavageSite: Tyr+Leu
 CutSequence: [A-Z][A-Z][A-Z]YL[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   638 to   645    NEMYLFRS
 ========================
 
@@ -866,7 +866,7 @@ from   638 to   645    NEMYLFRS
 MeropsID: M14.017
 CleavageSite: Val-Lys-Leu-Ile-Glu-Ser-Lys-Glu-Ala-Phe-Gln-Glu-Ala+Leu
 CutSequence: FQEAL[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   525 to   532    FQEALCQA
 ========================
 
@@ -874,7 +874,7 @@ from   525 to   532    FQEALCQA
 MeropsID: M14.018
 CleavageSite: Val-Lys-Leu-Ile-Glu-Ser-Lys-Glu-Ala-Phe-Gln-Glu-Ala+Leu
 CutSequence: FQEAL[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   525 to   532    FQEALCQA
 ========================
 
@@ -882,7 +882,7 @@ from   525 to   532    FQEALCQA
 MeropsID: M17.002
 CleavageSite: Leu+Gly
 CutSequence: [A-Z][A-Z][A-Z]LG[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   264 to   271    AHLLGDMW
 from   348 to   355    AWDLGKGD
 from   557 to   564    MLRLGKSE
@@ -895,14 +895,14 @@ from   728 to   735    QPTLGPPN
 MeropsID: M17.004
 CleavageSite: Asp+Leu
 CutSequence: [A-Z][A-Z][A-Z]DL[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    54 to    61    KLNDLCFT
 ========================
 ========================
 MeropsID: M17.004
 CleavageSite: Asp+Leu
 CutSequence: [A-Z][A-Z][A-Z]DL[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    35 to    42    EAEDLFYQ
 from   347 to   354    TAWDLGKG
 ========================
@@ -911,7 +911,7 @@ from   347 to   354    TAWDLGKG
 MeropsID: M17.004
 CleavageSite: Cys+Leu
 CutSequence: [A-Z][A-Z][A-Z]CL[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   138 to   145    PQECLLLE
 from   258 to   265    PIGCLPAH
 ========================
@@ -920,7 +920,7 @@ from   258 to   265    PIGCLPAH
 MeropsID: M17.004
 CleavageSite: Glu+Leu
 CutSequence: [A-Z][A-Z][A-Z]EL[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   181 to   188    LSFELLHA
 ========================
 
@@ -928,7 +928,7 @@ from   181 to   188    LSFELLHA
 MeropsID: M17.004
 CleavageSite: His+Leu
 CutSequence: [A-Z][A-Z][A-Z]HL[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   236 to   243    LYEHLHAY
 from   262 to   269    LPAHLLGD
 from   414 to   421    TPKHLKSI
@@ -938,14 +938,14 @@ from   414 to   421    TPKHLKSI
 MeropsID: M17.004
 CleavageSite: Leu+Leu
 CutSequence: [A-Z][A-Z][A-Z]LL[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   182 to   189    SFELLHAP
 ========================
 ========================
 MeropsID: M17.004
 CleavageSite: Leu+Leu
 CutSequence: [A-Z][A-Z][A-Z]LL[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from     4 to    11    SSWLLLSL
 from     5 to    12    SWLLLSLV
 from   139 to   146    QECLLLEP
@@ -961,7 +961,7 @@ from   581 to   588    VRPLLNYF
 MeropsID: M17.004
 CleavageSite: Met+Leu
 CutSequence: [A-Z][A-Z][A-Z]ML[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   329 to   336    ENSMLTDP
 from   452 to   459    FTYMLEKW
 from   554 to   561    LFNMLRLG
@@ -971,7 +971,7 @@ from   554 to   561    LFNMLRLG
 MeropsID: M18.002
 CleavageSite: Asp+Ala
 CutSequence: [A-Z][A-Z][A-Z]DA[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   292 to   299    DVTDAMVD
 from   300 to   307    QAWDAQRI
 from   710 to   717    RINDAFRL
@@ -981,14 +981,14 @@ from   710 to   717    RINDAFRL
 MeropsID: M18.002
 CleavageSite: Asp-Leu
 CutSequence: [A-Z][A-Z][A-Z]DL[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    54 to    61    KLNDLCFT
 ========================
 ========================
 MeropsID: M18.002
 CleavageSite: Asp-Leu
 CutSequence: [A-Z][A-Z][A-Z]DL[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    35 to    42    EAEDLFYQ
 from   347 to   354    TAWDLGKG
 ========================
@@ -997,14 +997,14 @@ from   347 to   354    TAWDLGKG
 MeropsID: M18.002
 CleavageSite: Asp+Phe
 CutSequence: [A-Z][A-Z][A-Z]DF[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    93 to   100    LPDDFTGC
 ========================
 ========================
 MeropsID: M18.002
 CleavageSite: Asp+Phe
 CutSequence: [A-Z][A-Z][A-Z]DF[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   352 to   359    GKGDFRIL
 from   365 to   372    TMDDFLTA
 from   424 to   431    LSPDFQED
@@ -1014,7 +1014,7 @@ from   424 to   431    LSPDFQED
 MeropsID: M18.002
 CleavageSite: Asp+Ser
 CutSequence: [A-Z][A-Z][A-Z]DS[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    63 to    70    VYADSFVI
 from   107 to   114    NNLDSKVG
 ========================
@@ -1023,7 +1023,7 @@ from   107 to   114    NNLDSKVG
 MeropsID: M19.007
 CleavageSite: Ala+Ala
 CutSequence: [A-Z][A-Z][A-Z]AA[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    13 to    20    AVTAAQST
 from   383 to   390    MAYAAQPF
 from   409 to   416    SLSAATPK
@@ -1034,7 +1034,7 @@ from   529 to   536    LCQAAKHE
 MeropsID: M20.003
 CleavageSite: Leu+Leu-Leu
 CutSequence: [A-Z][A-Z][A-Z]LLL[A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from     4 to    11    SSWLLLSL
 from   139 to   146    QECLLLEP
 ========================
@@ -1043,7 +1043,7 @@ from   139 to   146    QECLLLEP
 MeropsID: M20.004
 CleavageSite: beta-Ala+His
 CutSequence: [A-Z][A-Z][A-Z]AH[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   261 to   268    CLPAHLLG
 from   369 to   376    FLTAHHEM
 ========================
@@ -1052,7 +1052,7 @@ from   369 to   376    FLTAHHEM
 MeropsID: M20.004
 CleavageSite: Phe+Leu
 CutSequence: [A-Z][A-Z][A-Z]FL[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    25 to    32    AKTFLDKF
 from    69 to    76    WSAFLKEQ
 from   366 to   373    MDDFLTAH
@@ -1066,7 +1066,7 @@ from   721 to   728    SLEFLGIQ
 MeropsID: M20.005
 CleavageSite: beta-Ala+Arg
 CutSequence: [A-Z][A-Z][A-Z]AR[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   188 to   195    NEMARANH
 ========================
 
@@ -1074,7 +1074,7 @@ from   188 to   195    NEMARANH
 MeropsID: M20.005
 CleavageSite: Gly+Gly
 CutSequence: [A-Z][A-Z][A-Z]GG[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   111 to   118    SKVGGNYN
 ========================
 
@@ -1082,7 +1082,7 @@ from   111 to   118    SKVGGNYN
 MeropsID: M20.005
 CleavageSite: Gly+Leu
 CutSequence: [A-Z][A-Z][A-Z]GL[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   144 to   151    LEPGLNEI
 from   316 to   323    VSVGLPNM
 from   419 to   426    KSIGLLSP
@@ -1092,7 +1092,7 @@ from   419 to   426    KSIGLLSP
 MeropsID: M20.005
 CleavageSite: Gly+Phe
 CutSequence: [A-Z][A-Z][A-Z]GF[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   150 to   157    GVEGFNCY
 from   161 to   168    QSYGFQPT
 ========================
@@ -1100,7 +1100,7 @@ from   161 to   168    QSYGFQPT
 MeropsID: M20.005
 CleavageSite: Gly+Phe
 CutSequence: [A-Z][A-Z][A-Z]GF[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   323 to   330    MTQGFWEN
 from   396 to   403    ANEGFHEA
 ========================
@@ -1109,14 +1109,14 @@ from   396 to   403    ANEGFHEA
 MeropsID: M20.005
 CleavageSite: Pro+Ala
 CutSequence: [A-Z][A-Z][A-Z]PA[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   186 to   193    LHAPATVC
 ========================
 ========================
 MeropsID: M20.005
 CleavageSite: Pro+Ala
 CutSequence: [A-Z][A-Z][A-Z]PA[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   260 to   267    GCLPAHLL
 from   497 to   504    YCDPASLF
 ========================
@@ -1125,14 +1125,14 @@ from   497 to   504    YCDPASLF
 MeropsID: M20.005
 CleavageSite: Pro+Leu
 CutSequence: [A-Z][A-Z][A-Z]PL[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   156 to   163    CYFPLQSY
 ========================
 ========================
 MeropsID: M20.005
 CleavageSite: Pro+Leu
 CutSequence: [A-Z][A-Z][A-Z]PL[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    81 to    88    QMYPLQEI
 from   175 to   182    QLRPLYEE
 from   232 to   239    EIKPLYEH
@@ -1145,7 +1145,7 @@ from   587 to   594    YFEPLFTW
 MeropsID: M20.006
 CleavageSite: Ala+Ala
 CutSequence: [A-Z][A-Z][A-Z]AA[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    13 to    20    AVTAAQST
 from   383 to   390    MAYAAQPF
 from   409 to   416    SLSAATPK
@@ -1156,7 +1156,7 @@ from   529 to   536    LCQAAKHE
 MeropsID: M20.006
 CleavageSite: Ala+His
 CutSequence: [A-Z][A-Z][A-Z]AH[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   261 to   268    CLPAHLLG
 from   369 to   376    FLTAHHEM
 ========================
@@ -1165,7 +1165,7 @@ from   369 to   376    FLTAHHEM
 MeropsID: M20.006
 CleavageSite: Ala+Leu
 CutSequence: [A-Z][A-Z][A-Z]AL[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    96 to   103    QLQALQQN
 from   440 to   447    LKQALTIV
 from   525 to   532    FQEALCQA
@@ -1177,7 +1177,7 @@ from   624 to   631    LKSALGDK
 MeropsID: M20.006
 CleavageSite: Ala+Tyr
 CutSequence: [A-Z][A-Z][A-Z]AY[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   239 to   246    HLHAYVRA
 from   248 to   255    LMNAYPSY
 from   381 to   388    YDMAYAAQ
@@ -1189,7 +1189,7 @@ from   645 to   652    SSVAYAMR
 MeropsID: M20.006
 CleavageSite: beta-Ala+1-methyl-His
 CutSequence: [A-Z][A-Z][A-Z]AH[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   261 to   268    CLPAHLLG
 from   369 to   376    FLTAHHEM
 ========================
@@ -1198,7 +1198,7 @@ from   369 to   376    FLTAHHEM
 MeropsID: M20.006
 CleavageSite: beta-Ala+Ala
 CutSequence: [A-Z][A-Z][A-Z]AA[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    13 to    20    AVTAAQST
 from   383 to   390    MAYAAQPF
 from   409 to   416    SLSAATPK
@@ -1209,7 +1209,7 @@ from   529 to   536    LCQAAKHE
 MeropsID: M20.006
 CleavageSite: beta-Ala+Phe
 CutSequence: [A-Z][A-Z][A-Z]AF[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    68 to    75    KWSAFLKE
 from   711 to   718    INDAFRLN
 ========================
@@ -1218,7 +1218,7 @@ from   711 to   718    INDAFRLN
 MeropsID: M20.006
 CleavageSite: beta-Ala+His
 CutSequence: [A-Z][A-Z][A-Z]AH[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   261 to   268    CLPAHLLG
 from   369 to   376    FLTAHHEM
 ========================
@@ -1227,7 +1227,7 @@ from   369 to   376    FLTAHHEM
 MeropsID: M20.006
 CleavageSite: Gly+Gly
 CutSequence: [A-Z][A-Z][A-Z]GG[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   111 to   118    SKVGGNYN
 ========================
 
@@ -1235,7 +1235,7 @@ from   111 to   118    SKVGGNYN
 MeropsID: M20.006
 CleavageSite: Gly+His
 CutSequence: [A-Z][A-Z][A-Z]GH[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   374 to   381    HEMGHIQY
 ========================
 
@@ -1243,7 +1243,7 @@ from   374 to   381    HEMGHIQY
 MeropsID: M20.006
 CleavageSite: Gly+Leu
 CutSequence: [A-Z][A-Z][A-Z]GL[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   144 to   151    LEPGLNEI
 from   316 to   323    VSVGLPNM
 from   419 to   426    KSIGLLSP
@@ -1253,14 +1253,14 @@ from   419 to   426    KSIGLLSP
 MeropsID: M20.006
 CleavageSite: Leu+Leu
 CutSequence: [A-Z][A-Z][A-Z]LL[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   182 to   189    SFELLHAP
 ========================
 ========================
 MeropsID: M20.006
 CleavageSite: Leu+Leu
 CutSequence: [A-Z][A-Z][A-Z]LL[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from     4 to    11    SSWLLLSL
 from     5 to    12    SWLLLSLV
 from   139 to   146    QECLLLEP
@@ -1276,7 +1276,7 @@ from   581 to   588    VRPLLNYF
 MeropsID: M20.006
 CleavageSite: Phe+Ala
 CutSequence: [A-Z][A-Z][A-Z]FA[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    12 to    19    ATRFASVY
 ========================
 
@@ -1284,7 +1284,7 @@ from    12 to    19    ATRFASVY
 MeropsID: M20.007
 CleavageSite: beta-Ala+N-methyl-His
 CutSequence: [A-Z][A-Z][A-Z]AH[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   261 to   268    CLPAHLLG
 from   369 to   376    FLTAHHEM
 ========================
@@ -1293,7 +1293,7 @@ from   369 to   376    FLTAHHEM
 MeropsID: M20.010
 CleavageSite: Asp+Ala
 CutSequence: [A-Z][A-Z][A-Z]DA[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   292 to   299    DVTDAMVD
 from   300 to   307    QAWDAQRI
 from   710 to   717    RINDAFRL
@@ -1303,7 +1303,7 @@ from   710 to   717    RINDAFRL
 MeropsID: M20.010
 CleavageSite: Asp+Asn
 CutSequence: [A-Z][A-Z][A-Z]DN[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   133 to   140    CNPDNPQE
 from   428 to   435    FQEDNETE
 from   634 to   641    EWNDNEMY
@@ -1314,14 +1314,14 @@ from   716 to   723    RLNDNSLE
 MeropsID: M20.010
 CleavageSite: Asp+Asp
 CutSequence: [A-Z][A-Z][A-Z]DD[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    92 to    99    KLPDDFTG
 ========================
 ========================
 MeropsID: M20.010
 CleavageSite: Asp+Asp
 CutSequence: [A-Z][A-Z][A-Z]DD[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   364 to   371    VTMDDFLT
 ========================
 
@@ -1329,14 +1329,14 @@ from   364 to   371    VTMDDFLT
 MeropsID: M20.010
 CleavageSite: Asp+Glu
 CutSequence: [A-Z][A-Z][A-Z]DE[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    70 to    77    IRGDEVRQ
 ========================
 ========================
 MeropsID: M20.010
 CleavageSite: Asp+Glu
 CutSequence: [A-Z][A-Z][A-Z]DE[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   491 to   498    VPHDETYC
 ========================
 
@@ -1344,7 +1344,7 @@ from   491 to   498    VPHDETYC
 MeropsID: M20.010
 CleavageSite: Asp+Gly
 CutSequence: [A-Z][A-Z][A-Z]DG[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   210 to   217    NGVDGYDY
 ========================
 
@@ -1352,14 +1352,14 @@ from   210 to   217    NGVDGYDY
 MeropsID: M20.010
 CleavageSite: Asp+Leu
 CutSequence: [A-Z][A-Z][A-Z]DL[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    54 to    61    KLNDLCFT
 ========================
 ========================
 MeropsID: M20.010
 CleavageSite: Asp+Leu
 CutSequence: [A-Z][A-Z][A-Z]DL[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    35 to    42    EAEDLFYQ
 from   347 to   354    TAWDLGKG
 ========================
@@ -1368,7 +1368,7 @@ from   347 to   354    TAWDLGKG
 MeropsID: M20.010
 CleavageSite: Asp+Lys
 CutSequence: [A-Z][A-Z][A-Z]DK[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    27 to    34    TFLDKFNH
 from    64 to    71    NAGDKWSA
 from   108 to   115    LSEDKSKR
@@ -1379,7 +1379,7 @@ from   627 to   634    ALGDKAYE
 MeropsID: M20.010
 CleavageSite: Asp+Met
 CutSequence: [A-Z][A-Z][A-Z]DM[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   266 to   273    LLGDMWGR
 from   379 to   386    IQYDMAYA
 ========================
@@ -1388,7 +1388,7 @@ from   379 to   386    IQYDMAYA
 MeropsID: M20.010
 CleavageSite: Asp+Ser
 CutSequence: [A-Z][A-Z][A-Z]DS[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    63 to    70    VYADSFVI
 from   107 to   114    NNLDSKVG
 ========================
@@ -1397,7 +1397,7 @@ from   107 to   114    NNLDSKVG
 MeropsID: M20.010
 CleavageSite: Asp+Tyr
 CutSequence: [A-Z][A-Z][A-Z]DY[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    29 to    36    CVADYSVL
 from    85 to    92    KIADYNYK
 ========================
@@ -1405,7 +1405,7 @@ from    85 to    92    KIADYNYK
 MeropsID: M20.010
 CleavageSite: Asp+Tyr
 CutSequence: [A-Z][A-Z][A-Z]DY[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   154 to   161    NSLDYNER
 from   195 to   202    HYEDYGDY
 from   198 to   205    DYGDYWRG
@@ -1418,7 +1418,7 @@ from   506 to   513    VSNDYSFI
 MeropsID: M20.010
 CleavageSite: Asp+Val
 CutSequence: [A-Z][A-Z][A-Z]DV[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   222 to   229    LIEDVEHT
 from   289 to   296    PNIDVTDA
 from   666 to   673    GEEDVRVA
@@ -1428,7 +1428,7 @@ from   666 to   673    GEEDVRVA
 MeropsID: M20.012
 CleavageSite: Ala+Ala
 CutSequence: [A-Z][A-Z][A-Z]AA[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    13 to    20    AVTAAQST
 from   383 to   390    MAYAAQPF
 from   409 to   416    SLSAATPK
@@ -1439,7 +1439,7 @@ from   529 to   536    LCQAAKHE
 MeropsID: M20.013
 CleavageSite: Ala+His
 CutSequence: [A-Z][A-Z][A-Z]AH[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   261 to   268    CLPAHLLG
 from   369 to   376    FLTAHHEM
 ========================
@@ -1448,7 +1448,7 @@ from   369 to   376    FLTAHHEM
 MeropsID: M20.013
 CleavageSite: beta-Ala+1-methyl-His
 CutSequence: [A-Z][A-Z][A-Z]AH[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   261 to   268    CLPAHLLG
 from   369 to   376    FLTAHHEM
 ========================
@@ -1457,7 +1457,7 @@ from   369 to   376    FLTAHHEM
 MeropsID: M20.013
 CleavageSite: beta-Ala+His
 CutSequence: [A-Z][A-Z][A-Z]AH[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   261 to   268    CLPAHLLG
 from   369 to   376    FLTAHHEM
 ========================
@@ -1466,7 +1466,7 @@ from   369 to   376    FLTAHHEM
 MeropsID: M20.013
 CleavageSite: Gly+Gly
 CutSequence: [A-Z][A-Z][A-Z]GG[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   111 to   118    SKVGGNYN
 ========================
 
@@ -1474,7 +1474,7 @@ from   111 to   118    SKVGGNYN
 MeropsID: M20.013
 CleavageSite: Gly+His
 CutSequence: [A-Z][A-Z][A-Z]GH[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   374 to   381    HEMGHIQY
 ========================
 
@@ -1482,7 +1482,7 @@ from   374 to   381    HEMGHIQY
 MeropsID: M20.013
 CleavageSite: Gly+Leu
 CutSequence: [A-Z][A-Z][A-Z]GL[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   144 to   151    LEPGLNEI
 from   316 to   323    VSVGLPNM
 from   419 to   426    KSIGLLSP
@@ -1492,7 +1492,7 @@ from   419 to   426    KSIGLLSP
 MeropsID: M20.013
 CleavageSite: Leu+Gly
 CutSequence: [A-Z][A-Z][A-Z]LG[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   264 to   271    AHLLGDMW
 from   348 to   355    AWDLGKGD
 from   557 to   564    MLRLGKSE
@@ -1505,14 +1505,14 @@ from   728 to   735    QPTLGPPN
 MeropsID: M20.013
 CleavageSite: Pro+Gly
 CutSequence: [A-Z][A-Z][A-Z]PG[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    77 to    84    QIAPGQTG
 ========================
 ========================
 MeropsID: M20.013
 CleavageSite: Pro+Gly
 CutSequence: [A-Z][A-Z][A-Z]PG[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   143 to   150    LLEPGLNE
 from   333 to   340    LTDPGNVQ
 ========================
@@ -1521,7 +1521,7 @@ from   333 to   340    LTDPGNVQ
 MeropsID: M20.021
 CleavageSite: Ala+Lys
 CutSequence: [A-Z][A-Z][A-Z]AK[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    22 to    29    EEQAKTFL
 from   243 to   250    YVRAKLMN
 from   530 to   537    CQAAKHEG
@@ -1532,7 +1532,7 @@ from   573 to   580    VVGAKNMN
 MeropsID: M20.021
 CleavageSite: beta-Ala+Lys
 CutSequence: [A-Z][A-Z][A-Z]AK[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    22 to    29    EEQAKTFL
 from   243 to   250    YVRAKLMN
 from   530 to   537    CQAAKHEG
@@ -1543,7 +1543,7 @@ from   573 to   580    VVGAKNMN
 MeropsID: M20.021
 CleavageSite: Lys+Lys
 CutSequence: [A-Z][A-Z][A-Z]KK[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   472 to   479    QWMKKWWE
 ========================
 
@@ -1551,7 +1551,7 @@ from   472 to   479    QWMKKWWE
 MeropsID: M24.003
 CleavageSite: Ala+Pro
 CutSequence: [A-Z][A-Z][A-Z]AP[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    76 to    83    RQIAPGQT
 from   185 to   192    LLHAPATV
 ========================
@@ -1559,7 +1559,7 @@ from   185 to   192    LLHAPATV
 MeropsID: M24.003
 CleavageSite: Ala+Pro
 CutSequence: [A-Z][A-Z][A-Z]AP[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   684 to   691    FVTAPKNV
 ========================
 
@@ -1567,7 +1567,7 @@ from   684 to   691    FVTAPKNV
 MeropsID: M24.003
 CleavageSite: Arg+Pro
 CutSequence: [A-Z][A-Z][A-Z]RP[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   174 to   181    KQLRPLYE
 from   579 to   586    MNVRPLLN
 ========================
@@ -1576,7 +1576,7 @@ from   579 to   586    MNVRPLLN
 MeropsID: M24.003
 CleavageSite: Gly+Pro
 CutSequence: [A-Z][A-Z][A-Z]GP[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   534 to   541    KHEGPLHK
 from   729 to   736    PTLGPPNQ
 ========================
@@ -1585,7 +1585,7 @@ from   729 to   736    PTLGPPNQ
 MeropsID: M24.003
 CleavageSite: His+Pro
 CutSequence: [A-Z][A-Z][A-Z]HP[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   342 to   349    AVCHPTAW
 ========================
 
@@ -1593,7 +1593,7 @@ from   342 to   349    AVCHPTAW
 MeropsID: M24.003
 CleavageSite: Ile+Pro
 CutSequence: [A-Z][A-Z][A-Z]IP[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   465 to   472    KGEIPKDQ
 from   692 to   699    SDIIPRTE
 ========================
@@ -1602,14 +1602,14 @@ from   692 to   699    SDIIPRTE
 MeropsID: M24.003
 CleavageSite: Leu+Pro
 CutSequence: [A-Z][A-Z][A-Z]LP[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    90 to    97    NYKLPDDF
 ========================
 ========================
 MeropsID: M24.003
 CleavageSite: Leu+Pro
 CutSequence: [A-Z][A-Z][A-Z]LP[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   259 to   266    IGCLPAHL
 from   317 to   324    SVGLPNMT
 from   447 to   454    VGTLPFTY
@@ -1619,14 +1619,14 @@ from   447 to   454    VGTLPFTY
 MeropsID: M24.003
 CleavageSite: Lys+Pro
 CutSequence: [A-Z][A-Z][A-Z]KP[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   127 to   134    SNLKPFER
 ========================
 ========================
 MeropsID: M24.003
 CleavageSite: Lys+Pro
 CutSequence: [A-Z][A-Z][A-Z]KP[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   231 to   238    EEIKPLYE
 from   285 to   292    FGQKPNID
 from   673 to   680    ANLKPRIS
@@ -1636,7 +1636,7 @@ from   673 to   680    ANLKPRIS
 MeropsID: M24.003
 CleavageSite: Phe+Pro
 CutSequence: [A-Z][A-Z][A-Z]FP[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   155 to   162    NCYFPLQS
 ========================
 
@@ -1644,7 +1644,7 @@ from   155 to   162    NCYFPLQS
 MeropsID: M24.003
 CleavageSite: Pro+Pro
 CutSequence: [A-Z][A-Z][A-Z]PP[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   730 to   737    TLGPPNQP
 ========================
 
@@ -1652,14 +1652,14 @@ from   730 to   737    TLGPPNQP
 MeropsID: M24.003
 CleavageSite: Ser+Pro
 CutSequence: [A-Z][A-Z][A-Z]SP[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    48 to    55    YGVSPTKL
 ========================
 ========================
 MeropsID: M24.003
 CleavageSite: Ser+Pro
 CutSequence: [A-Z][A-Z][A-Z]SP[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   254 to   261    SYISPIGC
 from   422 to   429    GLLSPDFQ
 from   608 to   615    TDWSPYAD
@@ -1669,7 +1669,7 @@ from   608 to   615    TDWSPYAD
 MeropsID: M24.003
 CleavageSite: Tyr+Pro
 CutSequence: [A-Z][A-Z][A-Z]YP[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    80 to    87    AQMYPLQE
 from   249 to   256    MNAYPSYI
 ========================
@@ -1678,7 +1678,7 @@ from   249 to   256    MNAYPSYI
 MeropsID: M24.003
 CleavageSite: Val+Pro
 CutSequence: [A-Z][A-Z][A-Z]VP[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   280 to   287    SLTVPFGQ
 from   488 to   495    VEPVPHDE
 ========================
@@ -1687,7 +1687,7 @@ from   488 to   495    VEPVPHDE
 MeropsID: M24.004
 CleavageSite: Phe+Pro
 CutSequence: [A-Z][A-Z][A-Z]FP[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   155 to   162    NCYFPLQS
 ========================
 
@@ -1695,7 +1695,7 @@ from   155 to   162    NCYFPLQS
 MeropsID: M24.004
 CleavageSite: Tyr+Ala-Ala
 CutSequence: [A-Z][A-Z][A-Z]YAA[A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   382 to   389    DMAYAAQP
 ========================
 
@@ -1703,7 +1703,7 @@ from   382 to   389    DMAYAAQP
 MeropsID: M24.006
 CleavageSite: Arg+Pro
 CutSequence: [A-Z][A-Z][A-Z]RP[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   174 to   181    KQLRPLYE
 from   579 to   586    MNVRPLLN
 ========================
@@ -1712,14 +1712,14 @@ from   579 to   586    MNVRPLLN
 MeropsID: M24.006
 CleavageSite: Leu+Pro
 CutSequence: [A-Z][A-Z][A-Z]LP[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    90 to    97    NYKLPDDF
 ========================
 ========================
 MeropsID: M24.006
 CleavageSite: Leu+Pro
 CutSequence: [A-Z][A-Z][A-Z]LP[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   259 to   266    IGCLPAHL
 from   317 to   324    SVGLPNMT
 from   447 to   454    VGTLPFTY
@@ -1729,14 +1729,14 @@ from   447 to   454    VGTLPFTY
 MeropsID: M24.006
 CleavageSite: Lys+Pro
 CutSequence: [A-Z][A-Z][A-Z]KP[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   127 to   134    SNLKPFER
 ========================
 ========================
 MeropsID: M24.006
 CleavageSite: Lys+Pro
 CutSequence: [A-Z][A-Z][A-Z]KP[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   231 to   238    EEIKPLYE
 from   285 to   292    FGQKPNID
 from   673 to   680    ANLKPRIS
@@ -1746,7 +1746,7 @@ from   673 to   680    ANLKPRIS
 MeropsID: M24.006
 CleavageSite: Phe+Pro
 CutSequence: [A-Z][A-Z][A-Z]FP[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   155 to   162    NCYFPLQS
 ========================
 
@@ -1754,7 +1754,7 @@ from   155 to   162    NCYFPLQS
 MeropsID: M24.006
 CleavageSite: Pro+Pro
 CutSequence: [A-Z][A-Z][A-Z]PP[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   730 to   737    TLGPPNQP
 ========================
 
@@ -1762,7 +1762,7 @@ from   730 to   737    TLGPPNQP
 MeropsID: M24.006
 CleavageSite: Val+Pro
 CutSequence: [A-Z][A-Z][A-Z]VP[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   280 to   287    SLTVPFGQ
 from   488 to   495    VEPVPHDE
 ========================
@@ -1771,7 +1771,7 @@ from   488 to   495    VEPVPHDE
 MeropsID: M24.007
 CleavageSite: Gly+Pro
 CutSequence: [A-Z][A-Z][A-Z]GP[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   534 to   541    KHEGPLHK
 from   729 to   736    PTLGPPNQ
 ========================
@@ -1780,7 +1780,7 @@ from   729 to   736    PTLGPPNQ
 MeropsID: M24.008
 CleavageSite: Ala+Pro
 CutSequence: [A-Z][A-Z][A-Z]AP[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    76 to    83    RQIAPGQT
 from   185 to   192    LLHAPATV
 ========================
@@ -1788,7 +1788,7 @@ from   185 to   192    LLHAPATV
 MeropsID: M24.008
 CleavageSite: Ala+Pro
 CutSequence: [A-Z][A-Z][A-Z]AP[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   684 to   691    FVTAPKNV
 ========================
 
@@ -1796,14 +1796,14 @@ from   684 to   691    FVTAPKNV
 MeropsID: M24.008
 CleavageSite: Leu+Pro
 CutSequence: [A-Z][A-Z][A-Z]LP[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    90 to    97    NYKLPDDF
 ========================
 ========================
 MeropsID: M24.008
 CleavageSite: Leu+Pro
 CutSequence: [A-Z][A-Z][A-Z]LP[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   259 to   266    IGCLPAHL
 from   317 to   324    SVGLPNMT
 from   447 to   454    VGTLPFTY
@@ -1813,14 +1813,14 @@ from   447 to   454    VGTLPFTY
 MeropsID: M24.008
 CleavageSite: Lys+Pro
 CutSequence: [A-Z][A-Z][A-Z]KP[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   127 to   134    SNLKPFER
 ========================
 ========================
 MeropsID: M24.008
 CleavageSite: Lys+Pro
 CutSequence: [A-Z][A-Z][A-Z]KP[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   231 to   238    EEIKPLYE
 from   285 to   292    FGQKPNID
 from   673 to   680    ANLKPRIS
@@ -1830,7 +1830,7 @@ from   673 to   680    ANLKPRIS
 MeropsID: M24.008
 CleavageSite: Phe+Pro
 CutSequence: [A-Z][A-Z][A-Z]FP[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   155 to   162    NCYFPLQS
 ========================
 
@@ -1838,7 +1838,7 @@ from   155 to   162    NCYFPLQS
 MeropsID: M24.008
 CleavageSite: Phe+Pro
 CutSequence: [A-Z][A-Z][A-Z]FP[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   155 to   162    NCYFPLQS
 ========================
 
@@ -1846,7 +1846,7 @@ from   155 to   162    NCYFPLQS
 MeropsID: M24.008
 CleavageSite: Val+Pro
 CutSequence: [A-Z][A-Z][A-Z]VP[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   280 to   287    SLTVPFGQ
 from   488 to   495    VEPVPHDE
 ========================
@@ -1855,7 +1855,7 @@ from   488 to   495    VEPVPHDE
 MeropsID: M24.009
 CleavageSite: Ala+Pro
 CutSequence: [A-Z][A-Z][A-Z]AP[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    76 to    83    RQIAPGQT
 from   185 to   192    LLHAPATV
 ========================
@@ -1863,7 +1863,7 @@ from   185 to   192    LLHAPATV
 MeropsID: M24.009
 CleavageSite: Ala+Pro
 CutSequence: [A-Z][A-Z][A-Z]AP[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   684 to   691    FVTAPKNV
 ========================
 
@@ -1871,7 +1871,7 @@ from   684 to   691    FVTAPKNV
 MeropsID: M24.009
 CleavageSite: Arg+Pro
 CutSequence: [A-Z][A-Z][A-Z]RP[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   174 to   181    KQLRPLYE
 from   579 to   586    MNVRPLLN
 ========================
@@ -1880,14 +1880,14 @@ from   579 to   586    MNVRPLLN
 MeropsID: M24.009
 CleavageSite: Lys+Pro
 CutSequence: [A-Z][A-Z][A-Z]KP[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   127 to   134    SNLKPFER
 ========================
 ========================
 MeropsID: M24.009
 CleavageSite: Lys+Pro
 CutSequence: [A-Z][A-Z][A-Z]KP[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   231 to   238    EEIKPLYE
 from   285 to   292    FGQKPNID
 from   673 to   680    ANLKPRIS
@@ -1897,7 +1897,7 @@ from   673 to   680    ANLKPRIS
 MeropsID: M24.026
 CleavageSite: Leu+Pro-Ala
 CutSequence: [A-Z][A-Z][A-Z]LPA[A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   259 to   266    IGCLPAHL
 ========================
 
@@ -1905,7 +1905,7 @@ from   259 to   266    IGCLPAHL
 MeropsID: M24.026
 CleavageSite: Leu+Pro-Ala
 CutSequence: [A-Z][A-Z][A-Z]LPA[A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   259 to   266    IGCLPAHL
 ========================
 
@@ -1913,7 +1913,7 @@ from   259 to   266    IGCLPAHL
 MeropsID: M24.026
 CleavageSite: Leu+Pro-Ala
 CutSequence: [A-Z][A-Z][A-Z]LPA[A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   259 to   266    IGCLPAHL
 ========================
 
@@ -1921,7 +1921,7 @@ from   259 to   266    IGCLPAHL
 MeropsID: M24.026
 CleavageSite: Phe+Pro-Ala
 CutSequence: [A-Z][A-Z][A-Z]LPA[A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   259 to   266    IGCLPAHL
 ========================
 
@@ -1929,7 +1929,7 @@ from   259 to   266    IGCLPAHL
 MeropsID: M24.026
 CleavageSite: Phe+Pro-Ala
 CutSequence: [A-Z][A-Z][A-Z]LPA[A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   259 to   266    IGCLPAHL
 ========================
 
@@ -1937,7 +1937,7 @@ from   259 to   266    IGCLPAHL
 MeropsID: M24.026
 CleavageSite: Phe+Pro-Ala
 CutSequence: [A-Z][A-Z][A-Z]LPA[A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   259 to   266    IGCLPAHL
 ========================
 
@@ -1945,7 +1945,7 @@ from   259 to   266    IGCLPAHL
 MeropsID: M24.026
 CleavageSite: Tyr+Ala-Ala
 CutSequence: [A-Z][A-Z][A-Z]YAA[A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   382 to   389    DMAYAAQP
 ========================
 
@@ -1953,7 +1953,7 @@ from   382 to   389    DMAYAAQP
 MeropsID: M24.026
 CleavageSite: Tyr+Ala-Ala
 CutSequence: [A-Z][A-Z][A-Z]YAA[A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   382 to   389    DMAYAAQP
 ========================
 
@@ -1961,7 +1961,7 @@ from   382 to   389    DMAYAAQP
 MeropsID: M24.026
 CleavageSite: Tyr+Ala-Ala
 CutSequence: [A-Z][A-Z][A-Z]YAA[A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   382 to   389    DMAYAAQP
 ========================
 
@@ -1969,14 +1969,14 @@ from   382 to   389    DMAYAAQP
 MeropsID: M24.033
 CleavageSite: Leu+Pro
 CutSequence: [A-Z][A-Z][A-Z]LP[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    90 to    97    NYKLPDDF
 ========================
 ========================
 MeropsID: M24.033
 CleavageSite: Leu+Pro
 CutSequence: [A-Z][A-Z][A-Z]LP[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   259 to   266    IGCLPAHL
 from   317 to   324    SVGLPNMT
 from   447 to   454    VGTLPFTY
@@ -1986,7 +1986,7 @@ from   447 to   454    VGTLPFTY
 MeropsID: M24.033
 CleavageSite: Phe+Pro
 CutSequence: [A-Z][A-Z][A-Z]FP[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   155 to   162    NCYFPLQS
 ========================
 
@@ -1994,7 +1994,7 @@ from   155 to   162    NCYFPLQS
 MeropsID: M24.033
 CleavageSite: Pro+Pro
 CutSequence: [A-Z][A-Z][A-Z]PP[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   730 to   737    TLGPPNQP
 ========================
 
@@ -2002,7 +2002,7 @@ from   730 to   737    TLGPPNQP
 MeropsID: M24.033
 CleavageSite: Tyr+Pro
 CutSequence: [A-Z][A-Z][A-Z]YP[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    80 to    87    AQMYPLQE
 from   249 to   256    MNAYPSYI
 ========================
@@ -2011,7 +2011,7 @@ from   249 to   256    MNAYPSYI
 MeropsID: M24.034
 CleavageSite: Ala+Pro
 CutSequence: [A-Z][A-Z][A-Z]AP[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    76 to    83    RQIAPGQT
 from   185 to   192    LLHAPATV
 ========================
@@ -2019,7 +2019,7 @@ from   185 to   192    LLHAPATV
 MeropsID: M24.034
 CleavageSite: Ala+Pro
 CutSequence: [A-Z][A-Z][A-Z]AP[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   684 to   691    FVTAPKNV
 ========================
 
@@ -2027,7 +2027,7 @@ from   684 to   691    FVTAPKNV
 MeropsID: M24.034
 CleavageSite: Arg+Pro
 CutSequence: [A-Z][A-Z][A-Z]RP[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   174 to   181    KQLRPLYE
 from   579 to   586    MNVRPLLN
 ========================
@@ -2036,7 +2036,7 @@ from   579 to   586    MNVRPLLN
 MeropsID: M24.034
 CleavageSite: Gly+Pro
 CutSequence: [A-Z][A-Z][A-Z]GP[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   534 to   541    KHEGPLHK
 from   729 to   736    PTLGPPNQ
 ========================
@@ -2045,14 +2045,14 @@ from   729 to   736    PTLGPPNQ
 MeropsID: M24.034
 CleavageSite: Leu+Pro
 CutSequence: [A-Z][A-Z][A-Z]LP[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    90 to    97    NYKLPDDF
 ========================
 ========================
 MeropsID: M24.034
 CleavageSite: Leu+Pro
 CutSequence: [A-Z][A-Z][A-Z]LP[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   259 to   266    IGCLPAHL
 from   317 to   324    SVGLPNMT
 from   447 to   454    VGTLPFTY
@@ -2062,7 +2062,7 @@ from   447 to   454    VGTLPFTY
 MeropsID: M24.034
 CleavageSite: Phe+Pro
 CutSequence: [A-Z][A-Z][A-Z]FP[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   155 to   162    NCYFPLQS
 ========================
 
@@ -2070,14 +2070,14 @@ from   155 to   162    NCYFPLQS
 MeropsID: M24.034
 CleavageSite: Pro+Ala
 CutSequence: [A-Z][A-Z][A-Z]PA[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   186 to   193    LHAPATVC
 ========================
 ========================
 MeropsID: M24.034
 CleavageSite: Pro+Ala
 CutSequence: [A-Z][A-Z][A-Z]PA[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   260 to   267    GCLPAHLL
 from   497 to   504    YCDPASLF
 ========================
@@ -2086,7 +2086,7 @@ from   497 to   504    YCDPASLF
 MeropsID: M28.002
 CleavageSite: Arg+Ala
 CutSequence: [A-Z][A-Z][A-Z]RA[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   189 to   196    EMARANHY
 from   242 to   249    AYVRAKLM
 ========================
@@ -2095,7 +2095,7 @@ from   242 to   249    AYVRAKLM
 MeropsID: M28.002
 CleavageSite: Asn+Thr
 CutSequence: [A-Z][A-Z][A-Z]NT[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    48 to    55    WNYNTNIT
 from   114 to   121    KRLNTILN
 from   118 to   125    TILNTMST
@@ -2105,7 +2105,7 @@ from   118 to   125    TILNTMST
 MeropsID: M28.002
 CleavageSite: Leu+Arg
 CutSequence: [A-Z][A-Z][A-Z]LR[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   173 to   180    GKQLRPLY
 from   389 to   396    PFLLRNGA
 from   555 to   562    FNMLRLGK
@@ -2115,14 +2115,14 @@ from   555 to   562    FNMLRLGK
 MeropsID: M28.002
 CleavageSite: Leu+His
 CutSequence: [A-Z][A-Z][A-Z]LH[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   183 to   190    FELLHAPA
 ========================
 ========================
 MeropsID: M28.002
 CleavageSite: Leu+His
 CutSequence: [A-Z][A-Z][A-Z]LH[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   237 to   244    YEHLHAYV
 from   536 to   543    EGPLHKCD
 ========================
@@ -2131,14 +2131,14 @@ from   536 to   543    EGPLHKCD
 MeropsID: M28.002
 CleavageSite: Leu+Leu
 CutSequence: [A-Z][A-Z][A-Z]LL[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   182 to   189    SFELLHAP
 ========================
 ========================
 MeropsID: M28.002
 CleavageSite: Leu+Leu
 CutSequence: [A-Z][A-Z][A-Z]LL[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from     4 to    11    SSWLLLSL
 from     5 to    12    SWLLLSLV
 from   139 to   146    QECLLLEP
@@ -2154,14 +2154,14 @@ from   581 to   588    VRPLLNYF
 MeropsID: M28.002
 CleavageSite: Leu+Phe
 CutSequence: [A-Z][A-Z][A-Z]LF[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   120 to   127    LYRLFRKS
 ========================
 ========================
 MeropsID: M28.002
 CleavageSite: Leu+Phe
 CutSequence: [A-Z][A-Z][A-Z]LF[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    36 to    43    AEDLFYQS
 from   500 to   507    PASLFHVS
 from   551 to   558    GQKLFNML
@@ -2174,7 +2174,7 @@ from   661 to   668    QMILFGEE
 MeropsID: M28.002
 CleavageSite: Leu+Trp
 CutSequence: [A-Z][A-Z][A-Z]LW[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   159 to   166    NERLWAWE
 ========================
 
@@ -2182,7 +2182,7 @@ from   159 to   166    NERLWAWE
 MeropsID: M28.002
 CleavageSite: Leu+Tyr
 CutSequence: [A-Z][A-Z][A-Z]LY[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    33 to    40    YSVLYNSA
 from   117 to   124    YNYLYRLF
 ========================
@@ -2190,7 +2190,7 @@ from   117 to   124    YNYLYRLF
 MeropsID: M28.002
 CleavageSite: Leu+Tyr
 CutSequence: [A-Z][A-Z][A-Z]LY[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   176 to   183    LRPLYEEY
 from   233 to   240    IKPLYEHL
 from   275 to   282    WTNLYSLT
@@ -2201,7 +2201,7 @@ from   517 to   524    TRTLYQFQ
 MeropsID: M28.002
 CleavageSite: Phe+Phe
 CutSequence: [A-Z][A-Z][A-Z]FF[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   311 to   318    AEKFFVSV
 from   680 to   687    SFNFFVTA
 ========================
@@ -2210,7 +2210,7 @@ from   680 to   687    SFNFFVTA
 MeropsID: M28.003
 CleavageSite: Leu+Arg
 CutSequence: [A-Z][A-Z][A-Z]LR[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   173 to   180    GKQLRPLY
 from   389 to   396    PFLLRNGA
 from   555 to   562    FNMLRLGK
@@ -2220,14 +2220,14 @@ from   555 to   562    FNMLRLGK
 MeropsID: M28.003
 CleavageSite: Leu+His
 CutSequence: [A-Z][A-Z][A-Z]LH[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   183 to   190    FELLHAPA
 ========================
 ========================
 MeropsID: M28.003
 CleavageSite: Leu+His
 CutSequence: [A-Z][A-Z][A-Z]LH[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   237 to   244    YEHLHAYV
 from   536 to   543    EGPLHKCD
 ========================
@@ -2236,14 +2236,14 @@ from   536 to   543    EGPLHKCD
 MeropsID: M28.003
 CleavageSite: Leu+Leu
 CutSequence: [A-Z][A-Z][A-Z]LL[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   182 to   189    SFELLHAP
 ========================
 ========================
 MeropsID: M28.003
 CleavageSite: Leu+Leu
 CutSequence: [A-Z][A-Z][A-Z]LL[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from     4 to    11    SSWLLLSL
 from     5 to    12    SWLLLSLV
 from   139 to   146    QECLLLEP
@@ -2259,14 +2259,14 @@ from   581 to   588    VRPLLNYF
 MeropsID: M28.003
 CleavageSite: Leu+Phe
 CutSequence: [A-Z][A-Z][A-Z]LF[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   120 to   127    LYRLFRKS
 ========================
 ========================
 MeropsID: M28.003
 CleavageSite: Leu+Phe
 CutSequence: [A-Z][A-Z][A-Z]LF[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    36 to    43    AEDLFYQS
 from   500 to   507    PASLFHVS
 from   551 to   558    GQKLFNML
@@ -2279,14 +2279,14 @@ from   661 to   668    QMILFGEE
 MeropsID: M28.003
 CleavageSite: Leu+Ser
 CutSequence: [A-Z][A-Z][A-Z]LS[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   178 to   185    VVVLSFEL
 ========================
 ========================
 MeropsID: M28.003
 CleavageSite: Leu+Ser
 CutSequence: [A-Z][A-Z][A-Z]LS[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from     6 to    13    WLLLSLVA
 from   105 to   112    SSVLSEDK
 from   407 to   414    IMSLSAAT
@@ -2297,7 +2297,7 @@ from   421 to   428    IGLLSPDF
 MeropsID: M28.003
 CleavageSite: Leu+Trp
 CutSequence: [A-Z][A-Z][A-Z]LW[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   159 to   166    NERLWAWE
 ========================
 
@@ -2305,7 +2305,7 @@ from   159 to   166    NERLWAWE
 MeropsID: M28.003
 CleavageSite: Leu+Tyr
 CutSequence: [A-Z][A-Z][A-Z]LY[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    33 to    40    YSVLYNSA
 from   117 to   124    YNYLYRLF
 ========================
@@ -2313,7 +2313,7 @@ from   117 to   124    YNYLYRLF
 MeropsID: M28.003
 CleavageSite: Leu+Tyr
 CutSequence: [A-Z][A-Z][A-Z]LY[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   176 to   183    LRPLYEEY
 from   233 to   240    IKPLYEHL
 from   275 to   282    WTNLYSLT
@@ -2324,7 +2324,7 @@ from   517 to   524    TRTLYQFQ
 MeropsID: M28.003
 CleavageSite: Phe+Phe
 CutSequence: [A-Z][A-Z][A-Z]FF[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   311 to   318    AEKFFVSV
 from   680 to   687    SFNFFVTA
 ========================
@@ -2333,7 +2333,7 @@ from   680 to   687    SFNFFVTA
 MeropsID: M28.004
 CleavageSite: Ala+Phe
 CutSequence: [A-Z][A-Z][A-Z]AF[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    68 to    75    KWSAFLKE
 from   711 to   718    INDAFRLN
 ========================
@@ -2342,14 +2342,14 @@ from   711 to   718    INDAFRLN
 MeropsID: M28.004
 CleavageSite: Leu+Phe
 CutSequence: [A-Z][A-Z][A-Z]LF[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   120 to   127    LYRLFRKS
 ========================
 ========================
 MeropsID: M28.004
 CleavageSite: Leu+Phe
 CutSequence: [A-Z][A-Z][A-Z]LF[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    36 to    43    AEDLFYQS
 from   500 to   507    PASLFHVS
 from   551 to   558    GQKLFNML
@@ -2362,7 +2362,7 @@ from   661 to   668    QMILFGEE
 MeropsID: M28.004
 CleavageSite: Phe+Ala
 CutSequence: [A-Z][A-Z][A-Z]FA[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    12 to    19    ATRFASVY
 ========================
 
@@ -2370,14 +2370,14 @@ from    12 to    19    ATRFASVY
 MeropsID: M28.004
 CleavageSite: Phe+Gly
 CutSequence: [A-Z][A-Z][A-Z]FG[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from     3 to    10    LCPFGEVF
 ========================
 ========================
 MeropsID: M28.004
 CleavageSite: Phe+Gly
 CutSequence: [A-Z][A-Z][A-Z]FG[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   282 to   289    TVPFGQKP
 from   662 to   669    MILFGEED
 ========================
@@ -2386,7 +2386,7 @@ from   662 to   669    MILFGEED
 MeropsID: M28.004
 CleavageSite: Phe+Leu
 CutSequence: [A-Z][A-Z][A-Z]FL[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    25 to    32    AKTFLDKF
 from    69 to    76    WSAFLKEQ
 from   366 to   373    MDDFLTAH
@@ -2400,7 +2400,7 @@ from   721 to   728    SLEFLGIQ
 MeropsID: M28.004
 CleavageSite: Phe+Phe
 CutSequence: [A-Z][A-Z][A-Z]FF[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   311 to   318    AEKFFVSV
 from   680 to   687    SFNFFVTA
 ========================
@@ -2409,7 +2409,7 @@ from   680 to   687    SFNFFVTA
 MeropsID: M28.006
 CleavageSite: Leu+Leu-Leu
 CutSequence: [A-Z][A-Z][A-Z]LLL[A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from     4 to    11    SSWLLLSL
 from   139 to   146    QECLLLEP
 ========================
@@ -2418,14 +2418,14 @@ from   139 to   146    QECLLLEP
 MeropsID: M28.010
 CleavageSite: Asp+Glu
 CutSequence: [A-Z][A-Z][A-Z]DE[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    70 to    77    IRGDEVRQ
 ========================
 ========================
 MeropsID: M28.010
 CleavageSite: Asp+Glu
 CutSequence: [A-Z][A-Z][A-Z]DE[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   491 to   498    VPHDETYC
 ========================
 
@@ -2433,7 +2433,7 @@ from   491 to   498    VPHDETYC
 MeropsID: M28.010
 CleavageSite: gamma-Glu+Glu
 CutSequence: [A-Z][A-Z][A-Z]EE[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    19 to    26    STIEEQAK
 from    53 to    60    NITEENVQ
 from   178 to   185    PLYEEYVV
@@ -2445,7 +2445,7 @@ from   664 to   671    LFGEEDVR
 MeropsID: M28.010
 CleavageSite: Glu+Glu
 CutSequence: [A-Z][A-Z][A-Z]EE[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    19 to    26    STIEEQAK
 from    53 to    60    NITEENVQ
 from   178 to   185    PLYEEYVV
@@ -2457,7 +2457,7 @@ from   664 to   671    LFGEEDVR
 MeropsID: M28.014
 CleavageSite: Ala+Ala
 CutSequence: [A-Z][A-Z][A-Z]AA[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    13 to    20    AVTAAQST
 from   383 to   390    MAYAAQPF
 from   409 to   416    SLSAATPK
@@ -2468,14 +2468,14 @@ from   529 to   536    LCQAAKHE
 MeropsID: M28.014
 CleavageSite: Ala+Gly
 CutSequence: [A-Z][A-Z][A-Z]AG[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   140 to   147    IYQAGSTP
 ========================
 ========================
 MeropsID: M28.014
 CleavageSite: Ala+Gly
 CutSequence: [A-Z][A-Z][A-Z]AG[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    62 to    69    MNNAGDKW
 from   547 to   554    STEAGQKL
 ========================
@@ -2484,7 +2484,7 @@ from   547 to   554    STEAGQKL
 MeropsID: M28.014
 CleavageSite: Ala+Met
 CutSequence: [A-Z][A-Z][A-Z]AM[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   293 to   300    VTDAMVDQ
 from   647 to   654    VAYAMRQY
 ========================
@@ -2493,7 +2493,7 @@ from   647 to   654    VAYAMRQY
 MeropsID: M28.014
 CleavageSite: Ala+Phe
 CutSequence: [A-Z][A-Z][A-Z]AF[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    68 to    75    KWSAFLKE
 from   711 to   718    INDAFRLN
 ========================
@@ -2502,14 +2502,14 @@ from   711 to   718    INDAFRLN
 MeropsID: M28.014
 CleavageSite: Arg+Phe
 CutSequence: [A-Z][A-Z][A-Z]RF[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    11 to    18    NATRFASV
 ========================
 ========================
 MeropsID: M28.014
 CleavageSite: Arg+Phe
 CutSequence: [A-Z][A-Z][A-Z]RF[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   270 to   277    MWGRFWTN
 ========================
 
@@ -2517,14 +2517,14 @@ from   270 to   277    MWGRFWTN
 MeropsID: M28.014
 CleavageSite: Asp+Phe
 CutSequence: [A-Z][A-Z][A-Z]DF[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    93 to   100    LPDDFTGC
 ========================
 ========================
 MeropsID: M28.014
 CleavageSite: Asp+Phe
 CutSequence: [A-Z][A-Z][A-Z]DF[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   352 to   359    GKGDFRIL
 from   365 to   372    TMDDFLTA
 from   424 to   431    LSPDFQED
@@ -2534,7 +2534,7 @@ from   424 to   431    LSPDFQED
 MeropsID: M28.014
 CleavageSite: Cys+Tyr
 CutSequence: [A-Z][A-Z][A-Z]CY[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    44 to    51    TFKCYGVS
 from   153 to   160    GFNCYFPL
 ========================
@@ -2543,7 +2543,7 @@ from   153 to   160    GFNCYFPL
 MeropsID: M28.014
 CleavageSite: Glu+Tyr
 CutSequence: [A-Z][A-Z][A-Z]EY[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   179 to   186    LYEEYVVL
 ========================
 
@@ -2551,14 +2551,14 @@ from   179 to   186    LYEEYVVL
 MeropsID: M28.014
 CleavageSite: Gly+Asn
 CutSequence: [A-Z][A-Z][A-Z]GN[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   112 to   119    KVGGNYNY
 ========================
 ========================
 MeropsID: M28.014
 CleavageSite: Gly+Asn
 CutSequence: [A-Z][A-Z][A-Z]GN[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   334 to   341    TDPGNVQK
 ========================
 
@@ -2566,7 +2566,7 @@ from   334 to   341    TDPGNVQK
 MeropsID: M28.014
 CleavageSite: Gly+Leu
 CutSequence: [A-Z][A-Z][A-Z]GL[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   144 to   151    LEPGLNEI
 from   316 to   323    VSVGLPNM
 from   419 to   426    KSIGLLSP
@@ -2576,7 +2576,7 @@ from   419 to   426    KSIGLLSP
 MeropsID: M28.014
 CleavageSite: Gly+Phe
 CutSequence: [A-Z][A-Z][A-Z]GF[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   150 to   157    GVEGFNCY
 from   161 to   168    QSYGFQPT
 ========================
@@ -2584,7 +2584,7 @@ from   161 to   168    QSYGFQPT
 MeropsID: M28.014
 CleavageSite: Gly+Phe
 CutSequence: [A-Z][A-Z][A-Z]GF[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   323 to   330    MTQGFWEN
 from   396 to   403    ANEGFHEA
 ========================
@@ -2593,14 +2593,14 @@ from   396 to   403    ANEGFHEA
 MeropsID: M28.014
 CleavageSite: Gly+Tyr
 CutSequence: [A-Z][A-Z][A-Z]GY[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   169 to   176    NGVGYQPY
 ========================
 ========================
 MeropsID: M28.014
 CleavageSite: Gly+Tyr
 CutSequence: [A-Z][A-Z][A-Z]GY[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   211 to   218    GVDGYDYS
 ========================
 
@@ -2608,7 +2608,7 @@ from   211 to   218    GVDGYDYS
 MeropsID: M28.014
 CleavageSite: Leu+Ala
 CutSequence: [A-Z][A-Z][A-Z]LA[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    42 to    49    QSSLASWN
 from    76 to    83    QSTLAQMY
 from   565 to   572    PWTLALEN
@@ -2618,7 +2618,7 @@ from   565 to   572    PWTLALEN
 MeropsID: M28.014
 CleavageSite: Leu+Gly
 CutSequence: [A-Z][A-Z][A-Z]LG[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   264 to   271    AHLLGDMW
 from   348 to   355    AWDLGKGD
 from   557 to   564    MLRLGKSE
@@ -2631,14 +2631,14 @@ from   728 to   735    QPTLGPPN
 MeropsID: M28.014
 CleavageSite: Leu+Leu
 CutSequence: [A-Z][A-Z][A-Z]LL[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   182 to   189    SFELLHAP
 ========================
 ========================
 MeropsID: M28.014
 CleavageSite: Leu+Leu
 CutSequence: [A-Z][A-Z][A-Z]LL[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from     4 to    11    SSWLLLSL
 from     5 to    12    SWLLLSLV
 from   139 to   146    QECLLLEP
@@ -2654,14 +2654,14 @@ from   581 to   588    VRPLLNYF
 MeropsID: M28.014
 CleavageSite: Leu+Phe
 CutSequence: [A-Z][A-Z][A-Z]LF[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   120 to   127    LYRLFRKS
 ========================
 ========================
 MeropsID: M28.014
 CleavageSite: Leu+Phe
 CutSequence: [A-Z][A-Z][A-Z]LF[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    36 to    43    AEDLFYQS
 from   500 to   507    PASLFHVS
 from   551 to   558    GQKLFNML
@@ -2674,7 +2674,7 @@ from   661 to   668    QMILFGEE
 MeropsID: M28.014
 CleavageSite: Leu+Trp
 CutSequence: [A-Z][A-Z][A-Z]LW[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   159 to   166    NERLWAWE
 ========================
 
@@ -2682,7 +2682,7 @@ from   159 to   166    NERLWAWE
 MeropsID: M28.014
 CleavageSite: Leu+Tyr
 CutSequence: [A-Z][A-Z][A-Z]LY[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    33 to    40    YSVLYNSA
 from   117 to   124    YNYLYRLF
 ========================
@@ -2690,7 +2690,7 @@ from   117 to   124    YNYLYRLF
 MeropsID: M28.014
 CleavageSite: Leu+Tyr
 CutSequence: [A-Z][A-Z][A-Z]LY[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   176 to   183    LRPLYEEY
 from   233 to   240    IKPLYEHL
 from   275 to   282    WTNLYSLT
@@ -2701,7 +2701,7 @@ from   517 to   524    TRTLYQFQ
 MeropsID: M28.014
 CleavageSite: Met+Ser
 CutSequence: [A-Z][A-Z][A-Z]MS[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   120 to   127    LNTMSTIY
 from   405 to   412    GEIMSLSA
 from   703 to   710    AIRMSRSR
@@ -2711,14 +2711,14 @@ from   703 to   710    AIRMSRSR
 MeropsID: M28.014
 CleavageSite: Ser+Ala
 CutSequence: [A-Z][A-Z][A-Z]SA[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    36 to    43    LYNSASFS
 ========================
 ========================
 MeropsID: M28.014
 CleavageSite: Ser+Ala
 CutSequence: [A-Z][A-Z][A-Z]SA[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    67 to    74    DKWSAFLK
 from   408 to   415    MSLSAATP
 from   623 to   630    SLKSALGD
@@ -2728,7 +2728,7 @@ from   623 to   630    SLKSALGD
 MeropsID: M28.014
 CleavageSite: Ser+Leu
 CutSequence: [A-Z][A-Z][A-Z]SL[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from     7 to    14    LLLSLVAV
 from    41 to    48    YQSSLASW
 from   152 to   159    MANSLDYN
@@ -2743,7 +2743,7 @@ from   718 to   725    NDNSLEFL
 MeropsID: M28.014
 CleavageSite: Ser+Met
 CutSequence: [A-Z][A-Z][A-Z]SM[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   328 to   335    WENSMLTD
 ========================
 
@@ -2751,7 +2751,7 @@ from   328 to   335    WENSMLTD
 MeropsID: M28.014
 CleavageSite: Ser+Phe
 CutSequence: [A-Z][A-Z][A-Z]SF[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    38 to    45    NSASFSTF
 from    64 to    71    YADSFVIR
 from   179 to   186    VVLSFELL
@@ -2760,7 +2760,7 @@ from   179 to   186    VVLSFELL
 MeropsID: M28.014
 CleavageSite: Ser+Phe
 CutSequence: [A-Z][A-Z][A-Z]SF[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   508 to   515    NDYSFIRY
 from   599 to   606    NKNSFVGW
 from   677 to   684    PRISFNFF
@@ -2770,7 +2770,7 @@ from   677 to   684    PRISFNFF
 MeropsID: M28.014
 CleavageSite: Ser+Ser
 CutSequence: [A-Z][A-Z][A-Z]SS[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from     1 to     8    MSSSSWLL
 from    40 to    47    FYQSSLAS
 from   102 to   109    QNGSSVLS
@@ -2781,14 +2781,14 @@ from   642 to   649    LFRSSVAY
 MeropsID: M28.014
 CleavageSite: Ser+Tyr
 CutSequence: [A-Z][A-Z][A-Z]SY[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   159 to   166    PLQSYGFQ
 ========================
 ========================
 MeropsID: M28.014
 CleavageSite: Ser+Tyr
 CutSequence: [A-Z][A-Z][A-Z]SY[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   251 to   258    AYPSYISP
 ========================
 
@@ -2796,14 +2796,14 @@ from   251 to   258    AYPSYISP
 MeropsID: M28.014
 CleavageSite: Thr+Phe
 CutSequence: [A-Z][A-Z][A-Z]TF[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    41 to    48    SFSTFKCY
 ========================
 ========================
 MeropsID: M28.014
 CleavageSite: Thr+Phe
 CutSequence: [A-Z][A-Z][A-Z]TF[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    24 to    31    QAKTFLDK
 from   226 to   233    VEHTFEEI
 ========================
@@ -2812,14 +2812,14 @@ from   226 to   233    VEHTFEEI
 MeropsID: M28.014
 CleavageSite: Tyr+Leu
 CutSequence: [A-Z][A-Z][A-Z]YL[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   116 to   123    NYNYLYRL
 ========================
 ========================
 MeropsID: M28.014
 CleavageSite: Tyr+Leu
 CutSequence: [A-Z][A-Z][A-Z]YL[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   638 to   645    NEMYLFRS
 ========================
 
@@ -2827,7 +2827,7 @@ from   638 to   645    NEMYLFRS
 MeropsID: M28.014
 CleavageSite: Val+Val
 CutSequence: [A-Z][A-Z][A-Z]VV[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   175 to   182    PYRVVVLS
 from   176 to   183    YRVVVLSF
 ========================
@@ -2835,7 +2835,7 @@ from   176 to   183    YRVVVLSF
 MeropsID: M28.014
 CleavageSite: Val+Val
 CutSequence: [A-Z][A-Z][A-Z]VV[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   181 to   188    EEYVVLKN
 from   484 to   491    IVGVVEPV
 from   570 to   577    LENVVGAK
@@ -2845,7 +2845,7 @@ from   570 to   577    LENVVGAK
 MeropsID: M28.019
 CleavageSite: Leu+Arg
 CutSequence: [A-Z][A-Z][A-Z]LR[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   173 to   180    GKQLRPLY
 from   389 to   396    PFLLRNGA
 from   555 to   562    FNMLRLGK
@@ -2855,14 +2855,14 @@ from   555 to   562    FNMLRLGK
 MeropsID: M28.019
 CleavageSite: Leu+His
 CutSequence: [A-Z][A-Z][A-Z]LH[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   183 to   190    FELLHAPA
 ========================
 ========================
 MeropsID: M28.019
 CleavageSite: Leu+His
 CutSequence: [A-Z][A-Z][A-Z]LH[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   237 to   244    YEHLHAYV
 from   536 to   543    EGPLHKCD
 ========================
@@ -2871,14 +2871,14 @@ from   536 to   543    EGPLHKCD
 MeropsID: M28.019
 CleavageSite: Leu+Phe
 CutSequence: [A-Z][A-Z][A-Z]LF[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   120 to   127    LYRLFRKS
 ========================
 ========================
 MeropsID: M28.019
 CleavageSite: Leu+Phe
 CutSequence: [A-Z][A-Z][A-Z]LF[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    36 to    43    AEDLFYQS
 from   500 to   507    PASLFHVS
 from   551 to   558    GQKLFNML
@@ -2891,14 +2891,14 @@ from   661 to   668    QMILFGEE
 MeropsID: M28.019
 CleavageSite: Leu+Ser
 CutSequence: [A-Z][A-Z][A-Z]LS[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   178 to   185    VVVLSFEL
 ========================
 ========================
 MeropsID: M28.019
 CleavageSite: Leu+Ser
 CutSequence: [A-Z][A-Z][A-Z]LS[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from     6 to    13    WLLLSLVA
 from   105 to   112    SSVLSEDK
 from   407 to   414    IMSLSAAT
@@ -2909,7 +2909,7 @@ from   421 to   428    IGLLSPDF
 MeropsID: M28.019
 CleavageSite: Leu+Trp
 CutSequence: [A-Z][A-Z][A-Z]LW[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   159 to   166    NERLWAWE
 ========================
 
@@ -2917,7 +2917,7 @@ from   159 to   166    NERLWAWE
 MeropsID: M28.019
 CleavageSite: Leu+Tyr
 CutSequence: [A-Z][A-Z][A-Z]LY[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    33 to    40    YSVLYNSA
 from   117 to   124    YNYLYRLF
 ========================
@@ -2925,7 +2925,7 @@ from   117 to   124    YNYLYRLF
 MeropsID: M28.019
 CleavageSite: Leu+Tyr
 CutSequence: [A-Z][A-Z][A-Z]LY[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   176 to   183    LRPLYEEY
 from   233 to   240    IKPLYEHL
 from   275 to   282    WTNLYSLT
@@ -2936,7 +2936,7 @@ from   517 to   524    TRTLYQFQ
 MeropsID: M28.019
 CleavageSite: Phe+Phe
 CutSequence: [A-Z][A-Z][A-Z]FF[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   311 to   318    AEKFFVSV
 from   680 to   687    SFNFFVTA
 ========================
@@ -2945,7 +2945,7 @@ from   680 to   687    SFNFFVTA
 MeropsID: M28.019
 CleavageSite: Phe+Ser
 CutSequence: [A-Z][A-Z][A-Z]FS[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    39 to    46    SASFSTFK
 ========================
 
@@ -2953,7 +2953,7 @@ from    39 to    46    SASFSTFK
 MeropsID: M28.021
 CleavageSite: Arg+Ala
 CutSequence: [A-Z][A-Z][A-Z]RA[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   189 to   196    EMARANHY
 from   242 to   249    AYVRAKLM
 ========================
@@ -2962,7 +2962,7 @@ from   242 to   249    AYVRAKLM
 MeropsID: M28.021
 CleavageSite: Arg+Asp
 CutSequence: [A-Z][A-Z][A-Z]RD[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   131 to   138    PFERDIST
 ========================
 
@@ -2970,14 +2970,14 @@ from   131 to   138    PFERDIST
 MeropsID: M28.021
 CleavageSite: Arg+Gln
 CutSequence: [A-Z][A-Z][A-Z]RQ[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    73 to    80    DEVRQIAP
 ========================
 ========================
 MeropsID: M28.021
 CleavageSite: Arg+Gln
 CutSequence: [A-Z][A-Z][A-Z]RQ[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   649 to   656    YAMRQYFL
 ========================
 
@@ -2985,7 +2985,7 @@ from   649 to   656    YAMRQYFL
 MeropsID: M28.021
 CleavageSite: Arg+Glu
 CutSequence: [A-Z][A-Z][A-Z]RE[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   479 to   486    EMKREIVG
 ========================
 
@@ -2993,14 +2993,14 @@ from   479 to   486    EMKREIVG
 MeropsID: M28.021
 CleavageSite: Arg+Ile
 CutSequence: [A-Z][A-Z][A-Z]RI[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    22 to    29    NRKRISNC
 ========================
 ========================
 MeropsID: M28.021
 CleavageSite: Arg+Ile
 CutSequence: [A-Z][A-Z][A-Z]RI[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   303 to   310    DAQRIFKE
 from   354 to   361    GDFRILMC
 from   618 to   625    IKVRISLK
@@ -3012,14 +3012,14 @@ from   707 to   714    SRSRINDA
 MeropsID: M28.021
 CleavageSite: Arg+Leu
 CutSequence: [A-Z][A-Z][A-Z]RL[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   119 to   126    YLYRLFRK
 ========================
 ========================
 MeropsID: M28.021
 CleavageSite: Arg+Leu
 CutSequence: [A-Z][A-Z][A-Z]RL[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   112 to   119    KSKRLNTI
 from   158 to   165    YNERLWAW
 from   556 to   563    NMLRLGKS
@@ -3030,7 +3030,7 @@ from   713 to   720    DAFRLNDN
 MeropsID: M28.021
 CleavageSite: Arg+Met
 CutSequence: [A-Z][A-Z][A-Z]RM[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   702 to   709    KAIRMSRS
 ========================
 
@@ -3038,14 +3038,14 @@ from   702 to   709    KAIRMSRS
 MeropsID: M28.021
 CleavageSite: Arg+Phe
 CutSequence: [A-Z][A-Z][A-Z]RF[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    11 to    18    NATRFASV
 ========================
 ========================
 MeropsID: M28.021
 CleavageSite: Arg+Phe
 CutSequence: [A-Z][A-Z][A-Z]RF[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   270 to   277    MWGRFWTN
 ========================
 
@@ -3053,7 +3053,7 @@ from   270 to   277    MWGRFWTN
 MeropsID: M28.021
 CleavageSite: Arg+Ser
 CutSequence: [A-Z][A-Z][A-Z]RS[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   166 to   173    ESWRSEVG
 from   641 to   648    YLFRSSVA
 from   705 to   712    RMSRSRIN
@@ -3063,7 +3063,7 @@ from   705 to   712    RMSRSRIN
 MeropsID: M28.021
 CleavageSite: Arg+Trp
 CutSequence: [A-Z][A-Z][A-Z]RW[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   457 to   464    EKWRWMVF
 ========================
 
@@ -3071,7 +3071,7 @@ from   457 to   464    EKWRWMVF
 MeropsID: M28.021
 CleavageSite: Arg+Tyr
 CutSequence: [A-Z][A-Z][A-Z]RY[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   511 to   518    SFIRYYTR
 ========================
 
@@ -3079,14 +3079,14 @@ from   511 to   518    SFIRYYTR
 MeropsID: M28.021
 CleavageSite: Arg+Val
 CutSequence: [A-Z][A-Z][A-Z]RV[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   174 to   181    QPYRVVVL
 ========================
 ========================
 MeropsID: M28.021
 CleavageSite: Arg+Val
 CutSequence: [A-Z][A-Z][A-Z]RV[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   668 to   675    EDVRVANL
 ========================
 
@@ -3094,7 +3094,7 @@ from   668 to   675    EDVRVANL
 MeropsID: M29.001
 CleavageSite: Val+Gly-Gly
 CutSequence: [A-Z][A-Z][A-Z]VGG[A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   110 to   117    DSKVGGNY
 ========================
 
@@ -3102,7 +3102,7 @@ from   110 to   117    DSKVGGNY
 MeropsID: M38.001
 CleavageSite: Asp+Pro
 CutSequence: [A-Z][A-Z][A-Z]DP[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   332 to   339    MLTDPGNV
 from   496 to   503    TYCDPASL
 ========================
@@ -3111,14 +3111,14 @@ from   496 to   503    TYCDPASL
 MeropsID: M38.001
 CleavageSite: beta-Asp+Leu
 CutSequence: [A-Z][A-Z][A-Z]DL[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    54 to    61    KLNDLCFT
 ========================
 ========================
 MeropsID: M38.001
 CleavageSite: beta-Asp+Leu
 CutSequence: [A-Z][A-Z][A-Z]DL[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    35 to    42    EAEDLFYQ
 from   347 to   354    TAWDLGKG
 ========================
@@ -3127,7 +3127,7 @@ from   347 to   354    TAWDLGKG
 MeropsID: M38.002
 CleavageSite: Ala+Pro
 CutSequence: [A-Z][A-Z][A-Z]AP[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    76 to    83    RQIAPGQT
 from   185 to   192    LLHAPATV
 ========================
@@ -3135,7 +3135,7 @@ from   185 to   192    LLHAPATV
 MeropsID: M38.002
 CleavageSite: Ala+Pro
 CutSequence: [A-Z][A-Z][A-Z]AP[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   684 to   691    FVTAPKNV
 ========================
 
@@ -3143,7 +3143,7 @@ from   684 to   691    FVTAPKNV
 MeropsID: M38.002
 CleavageSite: Gly+Pro
 CutSequence: [A-Z][A-Z][A-Z]GP[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   534 to   541    KHEGPLHK
 from   729 to   736    PTLGPPNQ
 ========================
@@ -3152,7 +3152,7 @@ from   729 to   736    PTLGPPNQ
 MeropsID: M38.002
 CleavageSite: Ile+Pro
 CutSequence: [A-Z][A-Z][A-Z]IP[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   465 to   472    KGEIPKDQ
 from   692 to   699    SDIIPRTE
 ========================
@@ -3161,14 +3161,14 @@ from   692 to   699    SDIIPRTE
 MeropsID: M38.002
 CleavageSite: Leu+Pro
 CutSequence: [A-Z][A-Z][A-Z]LP[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    90 to    97    NYKLPDDF
 ========================
 ========================
 MeropsID: M38.002
 CleavageSite: Leu+Pro
 CutSequence: [A-Z][A-Z][A-Z]LP[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   259 to   266    IGCLPAHL
 from   317 to   324    SVGLPNMT
 from   447 to   454    VGTLPFTY
@@ -3178,7 +3178,7 @@ from   447 to   454    VGTLPFTY
 MeropsID: M38.002
 CleavageSite: Pro+Pro
 CutSequence: [A-Z][A-Z][A-Z]PP[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   730 to   737    TLGPPNQP
 ========================
 
@@ -3186,14 +3186,14 @@ from   730 to   737    TLGPPNQP
 MeropsID: M38.002
 CleavageSite: Ser+Pro
 CutSequence: [A-Z][A-Z][A-Z]SP[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    48 to    55    YGVSPTKL
 ========================
 ========================
 MeropsID: M38.002
 CleavageSite: Ser+Pro
 CutSequence: [A-Z][A-Z][A-Z]SP[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   254 to   261    SYISPIGC
 from   422 to   429    GLLSPDFQ
 from   608 to   615    TDWSPYAD
@@ -3203,14 +3203,14 @@ from   608 to   615    TDWSPYAD
 MeropsID: M38.002
 CleavageSite: Thr+Pro
 CutSequence: [A-Z][A-Z][A-Z]TP[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   143 to   150    AGSTPCNG
 ========================
 ========================
 MeropsID: M38.002
 CleavageSite: Thr+Pro
 CutSequence: [A-Z][A-Z][A-Z]TP[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   411 to   418    SAATPKHL
 ========================
 
@@ -3218,7 +3218,7 @@ from   411 to   418    SAATPKHL
 MeropsID: M42.001
 CleavageSite: Asp+Ala
 CutSequence: [A-Z][A-Z][A-Z]DA[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   292 to   299    DVTDAMVD
 from   300 to   307    QAWDAQRI
 from   710 to   717    RINDAFRL
@@ -3228,7 +3228,7 @@ from   710 to   717    RINDAFRL
 MeropsID: M42.001
 CleavageSite: Glu+Ala
 CutSequence: [A-Z][A-Z][A-Z]EA[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    32 to    39    FNHEAEDL
 from   307 to   314    IFKEAEKF
 from   399 to   406    GFHEAVGE
@@ -3240,14 +3240,14 @@ from   546 to   553    NSTEAGQK
 MeropsID: M42.001
 CleavageSite: Ser+Ala
 CutSequence: [A-Z][A-Z][A-Z]SA[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    36 to    43    LYNSASFS
 ========================
 ========================
 MeropsID: M42.001
 CleavageSite: Ser+Ala
 CutSequence: [A-Z][A-Z][A-Z]SA[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    67 to    74    DKWSAFLK
 from   408 to   415    MSLSAATP
 from   623 to   630    SLKSALGD
@@ -3257,14 +3257,14 @@ from   623 to   630    SLKSALGD
 MeropsID: M61.002
 CleavageSite: Asp-Asp
 CutSequence: [A-Z][A-Z][A-Z]DD[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    92 to    99    KLPDDFTG
 ========================
 ========================
 MeropsID: M61.002
 CleavageSite: Asp-Asp
 CutSequence: [A-Z][A-Z][A-Z]DD[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   364 to   371    VTMDDFLT
 ========================
 
@@ -3272,14 +3272,14 @@ from   364 to   371    VTMDDFLT
 MeropsID: M61.002
 CleavageSite: Asp-Glu
 CutSequence: [A-Z][A-Z][A-Z]DE[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    70 to    77    IRGDEVRQ
 ========================
 ========================
 MeropsID: M61.002
 CleavageSite: Asp-Glu
 CutSequence: [A-Z][A-Z][A-Z]DE[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   491 to   498    VPHDETYC
 ========================
 
@@ -3287,14 +3287,14 @@ from   491 to   498    VPHDETYC
 MeropsID: M61.002
 CleavageSite: Asp+Phe
 CutSequence: [A-Z][A-Z][A-Z]DF[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    93 to   100    LPDDFTGC
 ========================
 ========================
 MeropsID: M61.002
 CleavageSite: Asp+Phe
 CutSequence: [A-Z][A-Z][A-Z]DF[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   352 to   359    GKGDFRIL
 from   365 to   372    TMDDFLTA
 from   424 to   431    LSPDFQED
@@ -3304,7 +3304,7 @@ from   424 to   431    LSPDFQED
 MeropsID: M61.002
 CleavageSite: Glu-Ala
 CutSequence: [A-Z][A-Z][A-Z]EA[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    32 to    39    FNHEAEDL
 from   307 to   314    IFKEAEKF
 from   399 to   406    GFHEAVGE
@@ -3316,7 +3316,7 @@ from   546 to   553    NSTEAGQK
 MeropsID: M61.002
 CleavageSite: Glu-Val
 CutSequence: [A-Z][A-Z][A-Z]EV[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from     5 to    12    PFGEVFNA
 from    71 to    78    RGDEVRQI
 ========================
@@ -3324,7 +3324,7 @@ from    71 to    78    RGDEVRQI
 MeropsID: M61.002
 CleavageSite: Glu-Val
 CutSequence: [A-Z][A-Z][A-Z]EV[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   168 to   175    WRSEVGKQ
 from   205 to   212    GDYEVNGV
 from   696 to   703    PRTEVEKA
@@ -3334,7 +3334,7 @@ from   696 to   703    PRTEVEKA
 MeropsID: M61.002
 CleavageSite: Glu-Val-Phe
 CutSequence: [A-Z][A-Z][A-Z]EVF[A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from     5 to    12    PFGEVFNA
 ========================
 
@@ -3342,7 +3342,7 @@ from     5 to    12    PFGEVFNA
 MeropsID: M77.001
 CleavageSite: H-Trp+Ala-OH
 CutSequence: [A-Z][A-Z][A-Z]WA[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   160 to   167    ERLWAWES
 ========================
 
@@ -3350,7 +3350,7 @@ from   160 to   167    ERLWAWES
 MeropsID: M77.001
 CleavageSite: H-Trp+Asp-OH
 CutSequence: [A-Z][A-Z][A-Z]WD[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   299 to   306    DQAWDAQR
 from   346 to   353    PTAWDLGK
 ========================
@@ -3359,7 +3359,7 @@ from   346 to   353    PTAWDLGK
 MeropsID: M77.001
 CleavageSite: H-Trp+Glu-OH
 CutSequence: [A-Z][A-Z][A-Z]WE[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   162 to   169    LWAWESWR
 from   325 to   332    QGFWENSM
 from   475 to   482    KKWWEMKR
@@ -3369,7 +3369,7 @@ from   475 to   482    KKWWEMKR
 MeropsID: M77.001
 CleavageSite: H-Trp+Gly-OH
 CutSequence: [A-Z][A-Z][A-Z]WG[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   268 to   275    GDMWGRFW
 ========================
 
@@ -3377,7 +3377,7 @@ from   268 to   275    GDMWGRFW
 MeropsID: M77.002
 CleavageSite: H-Trp+Ala-OH
 CutSequence: [A-Z][A-Z][A-Z]WA[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   160 to   167    ERLWAWES
 ========================
 
@@ -3385,7 +3385,7 @@ from   160 to   167    ERLWAWES
 MeropsID: M77.002
 CleavageSite: H-Trp+Asp-OH
 CutSequence: [A-Z][A-Z][A-Z]WD[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   299 to   306    DQAWDAQR
 from   346 to   353    PTAWDLGK
 ========================
@@ -3394,7 +3394,7 @@ from   346 to   353    PTAWDLGK
 MeropsID: M77.002
 CleavageSite: H-Trp+Glu-OH
 CutSequence: [A-Z][A-Z][A-Z]WE[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   162 to   169    LWAWESWR
 from   325 to   332    QGFWENSM
 from   475 to   482    KKWWEMKR
@@ -3404,7 +3404,7 @@ from   475 to   482    KKWWEMKR
 MeropsID: M77.002
 CleavageSite: H-Trp+Gly-OH
 CutSequence: [A-Z][A-Z][A-Z]WG[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   268 to   275    GDMWGRFW
 ========================
 
@@ -3412,7 +3412,7 @@ from   268 to   275    GDMWGRFW
 MeropsID: M77.003
 CleavageSite: H-Trp+Ala-OH
 CutSequence: [A-Z][A-Z][A-Z]WA[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   160 to   167    ERLWAWES
 ========================
 
@@ -3420,7 +3420,7 @@ from   160 to   167    ERLWAWES
 MeropsID: M77.003
 CleavageSite: H-Trp+Asp-OH
 CutSequence: [A-Z][A-Z][A-Z]WD[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   299 to   306    DQAWDAQR
 from   346 to   353    PTAWDLGK
 ========================
@@ -3429,7 +3429,7 @@ from   346 to   353    PTAWDLGK
 MeropsID: M77.003
 CleavageSite: H-Trp+Glu-OH
 CutSequence: [A-Z][A-Z][A-Z]WE[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   162 to   169    LWAWESWR
 from   325 to   332    QGFWENSM
 from   475 to   482    KKWWEMKR
@@ -3439,7 +3439,7 @@ from   475 to   482    KKWWEMKR
 MeropsID: M77.003
 CleavageSite: H-Trp+Gly-OH
 CutSequence: [A-Z][A-Z][A-Z]WG[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   268 to   275    GDMWGRFW
 ========================
 
@@ -3447,7 +3447,7 @@ from   268 to   275    GDMWGRFW
 MeropsID: M77.004
 CleavageSite: H-Trp+Ala-OH
 CutSequence: [A-Z][A-Z][A-Z]WA[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   160 to   167    ERLWAWES
 ========================
 
@@ -3455,7 +3455,7 @@ from   160 to   167    ERLWAWES
 MeropsID: M77.004
 CleavageSite: H-Trp+Asp-OH
 CutSequence: [A-Z][A-Z][A-Z]WD[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   299 to   306    DQAWDAQR
 from   346 to   353    PTAWDLGK
 ========================
@@ -3464,7 +3464,7 @@ from   346 to   353    PTAWDLGK
 MeropsID: M77.004
 CleavageSite: H-Trp+Glu-OH
 CutSequence: [A-Z][A-Z][A-Z]WE[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   162 to   169    LWAWESWR
 from   325 to   332    QGFWENSM
 from   475 to   482    KKWWEMKR
@@ -3474,7 +3474,7 @@ from   475 to   482    KKWWEMKR
 MeropsID: M77.004
 CleavageSite: H-Trp+Gly-OH
 CutSequence: [A-Z][A-Z][A-Z]WG[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   268 to   275    GDMWGRFW
 ========================
 
@@ -3482,7 +3482,7 @@ from   268 to   275    GDMWGRFW
 MeropsID: M9A.007
 CleavageSite: Glu+Trp
 CutSequence: [A-Z][A-Z][A-Z]EW[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   631 to   638    KAYEWNDN
 ========================
 
@@ -3490,7 +3490,7 @@ from   631 to   638    KAYEWNDN
 MeropsID: M9A.007
 CleavageSite: Leu+Trp
 CutSequence: [A-Z][A-Z][A-Z]LW[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   159 to   166    NERLWAWE
 ========================
 
@@ -3498,14 +3498,14 @@ from   159 to   166    NERLWAWE
 MeropsID: M9A.007
 CleavageSite: Phe+Gly
 CutSequence: [A-Z][A-Z][A-Z]FG[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from     3 to    10    LCPFGEVF
 ========================
 ========================
 MeropsID: M9A.007
 CleavageSite: Phe+Gly
 CutSequence: [A-Z][A-Z][A-Z]FG[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   282 to   289    TVPFGQKP
 from   662 to   669    MILFGEED
 ========================
@@ -3514,7 +3514,7 @@ from   662 to   669    MILFGEED
 MeropsID: M9A.007
 CleavageSite: Phe+Leu
 CutSequence: [A-Z][A-Z][A-Z]FL[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    25 to    32    AKTFLDKF
 from    69 to    76    WSAFLKEQ
 from   366 to   373    MDDFLTAH
@@ -3528,7 +3528,7 @@ from   721 to   728    SLEFLGIQ
 MeropsID: M9A.007
 CleavageSite: Trp+Ala
 CutSequence: [A-Z][A-Z][A-Z]WA[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   160 to   167    ERLWAWES
 ========================
 
@@ -3536,7 +3536,7 @@ from   160 to   167    ERLWAWES
 MeropsID: M9A.007
 CleavageSite: Trp+Gly
 CutSequence: [A-Z][A-Z][A-Z]WG[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   268 to   275    GDMWGRFW
 ========================
 
@@ -3544,7 +3544,7 @@ from   268 to   275    GDMWGRFW
 MeropsID: M9A.007
 CleavageSite: Trp+Leu
 CutSequence: [A-Z][A-Z][A-Z]WL[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from     3 to    10    SSSWLLLS
 from   591 to   598    LFTWLKDQ
 ========================
@@ -3553,14 +3553,14 @@ from   591 to   598    LFTWLKDQ
 MeropsID: M9A.007
 CleavageSite: Tyr+Leu
 CutSequence: [A-Z][A-Z][A-Z]YL[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   116 to   123    NYNYLYRL
 ========================
 ========================
 MeropsID: M9A.007
 CleavageSite: Tyr+Leu
 CutSequence: [A-Z][A-Z][A-Z]YL[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   638 to   645    NEMYLFRS
 ========================
 
@@ -3568,7 +3568,7 @@ from   638 to   645    NEMYLFRS
 MeropsID: M9A.008
 CleavageSite: Trp+Ala
 CutSequence: [A-Z][A-Z][A-Z]WA[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   160 to   167    ERLWAWES
 ========================
 
@@ -3576,7 +3576,7 @@ from   160 to   167    ERLWAWES
 MeropsID: M9A.008
 CleavageSite: Trp+Glu
 CutSequence: [A-Z][A-Z][A-Z]WE[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   162 to   169    LWAWESWR
 from   325 to   332    QGFWENSM
 from   475 to   482    KKWWEMKR
@@ -3586,7 +3586,7 @@ from   475 to   482    KKWWEMKR
 MeropsID: M9A.008
 CleavageSite: Trp+Gly
 CutSequence: [A-Z][A-Z][A-Z]WG[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   268 to   275    GDMWGRFW
 ========================
 
@@ -3594,7 +3594,7 @@ from   268 to   275    GDMWGRFW
 MeropsID: M9A.008
 CleavageSite: Trp+Leu
 CutSequence: [A-Z][A-Z][A-Z]WL[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from     3 to    10    SSSWLLLS
 from   591 to   598    LFTWLKDQ
 ========================
@@ -3603,7 +3603,7 @@ from   591 to   598    LFTWLKDQ
 MeropsID: M9A.008
 CleavageSite: Trp+Trp
 CutSequence: [A-Z][A-Z][A-Z]WW[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   474 to   481    MKKWWEMK
 ========================
 
@@ -3611,14 +3611,14 @@ from   474 to   481    MKKWWEMK
 MeropsID: M9A.012
 CleavageSite: Gly+Glu
 CutSequence: [A-Z][A-Z][A-Z]GE[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from     4 to    11    CPFGEVFN
 ========================
 ========================
 MeropsID: M9A.012
 CleavageSite: Gly+Glu
 CutSequence: [A-Z][A-Z][A-Z]GE[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   402 to   409    EAVGEIMS
 from   463 to   470    VFKGEIPK
 from   663 to   670    ILFGEEDV
@@ -3628,7 +3628,7 @@ from   663 to   670    ILFGEEDV
 MeropsID: M9A.012
 CleavageSite: Gly+Gly
 CutSequence: [A-Z][A-Z][A-Z]GG[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   111 to   118    SKVGGNYN
 ========================
 
@@ -3636,7 +3636,7 @@ from   111 to   118    SKVGGNYN
 MeropsID: M9A.012
 CleavageSite: Gly+Phe
 CutSequence: [A-Z][A-Z][A-Z]GF[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   150 to   157    GVEGFNCY
 from   161 to   168    QSYGFQPT
 ========================
@@ -3644,7 +3644,7 @@ from   161 to   168    QSYGFQPT
 MeropsID: M9A.012
 CleavageSite: Gly+Phe
 CutSequence: [A-Z][A-Z][A-Z]GF[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   323 to   330    MTQGFWEN
 from   396 to   403    ANEGFHEA
 ========================
@@ -3653,7 +3653,7 @@ from   396 to   403    ANEGFHEA
 MeropsID: M9B.004
 CleavageSite: Ala+Ala
 CutSequence: [A-Z][A-Z][A-Z]AA[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    13 to    20    AVTAAQST
 from   383 to   390    MAYAAQPF
 from   409 to   416    SLSAATPK
@@ -3664,7 +3664,7 @@ from   529 to   536    LCQAAKHE
 MeropsID: M9B.004
 CleavageSite: Gly+Ala
 CutSequence: [A-Z][A-Z][A-Z]GA[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   392 to   399    LRNGANEG
 from   572 to   579    NVVGAKNM
 ========================
@@ -3673,7 +3673,7 @@ from   572 to   579    NVVGAKNM
 MeropsID: M9B.004
 CleavageSite: Leu+Ala
 CutSequence: [A-Z][A-Z][A-Z]LA[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    42 to    49    QSSLASWN
 from    76 to    83    QSTLAQMY
 from   565 to   572    PWTLALEN
@@ -3683,7 +3683,7 @@ from   565 to   572    PWTLALEN
 MeropsID: M9B.004
 CleavageSite: Met1+Ala-peptide
 CutSequence: [A-Z][A-Z][A-Z]MA[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   149 to   156    NEIMANSL
 from   187 to   194    KNEMARAN
 from   380 to   387    QYDMAYAA
@@ -3693,7 +3693,7 @@ from   380 to   387    QYDMAYAA
 MeropsID: M9B.004
 CleavageSite: Met+Gly
 CutSequence: [A-Z][A-Z][A-Z]MG[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   373 to   380    HHEMGHIQ
 ========================
 
@@ -3701,7 +3701,7 @@ from   373 to   380    HHEMGHIQ
 MeropsID: M9B.004
 CleavageSite: Met+Ile
 CutSequence: [A-Z][A-Z][A-Z]MI[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   659 to   666    KNQMILFG
 ========================
 
@@ -3709,7 +3709,7 @@ from   659 to   666    KNQMILFG
 MeropsID: M9B.004
 CleavageSite: Met+Leu
 CutSequence: [A-Z][A-Z][A-Z]ML[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   329 to   336    ENSMLTDP
 from   452 to   459    FTYMLEKW
 from   554 to   561    LFNMLRLG
@@ -3719,7 +3719,7 @@ from   554 to   561    LFNMLRLG
 MeropsID: M9B.004
 CleavageSite: Met+Ser
 CutSequence: [A-Z][A-Z][A-Z]MS[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   120 to   127    LNTMSTIY
 from   405 to   412    GEIMSLSA
 from   703 to   710    AIRMSRSR
@@ -3729,7 +3729,7 @@ from   703 to   710    AIRMSRSR
 MeropsID: M9B.004
 CleavageSite: Met+Thr
 CutSequence: [A-Z][A-Z][A-Z]MT[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   320 to   327    LPNMTQGF
 ========================
 
@@ -3737,7 +3737,7 @@ from   320 to   327    LPNMTQGF
 MeropsID: M9B.004
 CleavageSite: Met+Val
 CutSequence: [A-Z][A-Z][A-Z]MV[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   294 to   301    TDAMVDQA
 from   459 to   466    WRWMVFKG
 ========================
@@ -3746,14 +3746,14 @@ from   459 to   466    WRWMVFKG
 MeropsID: M9B.004
 CleavageSite: Ser+Ala
 CutSequence: [A-Z][A-Z][A-Z]SA[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    36 to    43    LYNSASFS
 ========================
 ========================
 MeropsID: M9B.004
 CleavageSite: Ser+Ala
 CutSequence: [A-Z][A-Z][A-Z]SA[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    67 to    74    DKWSAFLK
 from   408 to   415    MSLSAATP
 from   623 to   630    SLKSALGD
@@ -3763,7 +3763,7 @@ from   623 to   630    SLKSALGD
 MeropsID: M9B.004
 CleavageSite: Thr+Ala
 CutSequence: [A-Z][A-Z][A-Z]TA[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    12 to    19    VAVTAAQS
 from   344 to   351    CHPTAWDL
 from   368 to   375    DFLTAHHE
@@ -3774,14 +3774,14 @@ from   683 to   690    FFVTAPKN
 MeropsID: M9E.004
 CleavageSite: Pro+Ala
 CutSequence: [A-Z][A-Z][A-Z]PA[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   186 to   193    LHAPATVC
 ========================
 ========================
 MeropsID: M9E.004
 CleavageSite: Pro+Ala
 CutSequence: [A-Z][A-Z][A-Z]PA[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   260 to   267    GCLPAHLL
 from   497 to   504    YCDPASLF
 ========================
@@ -3790,14 +3790,14 @@ from   497 to   504    YCDPASLF
 MeropsID: M9E.004
 CleavageSite: Pro+Gly
 CutSequence: [A-Z][A-Z][A-Z]PG[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    77 to    84    QIAPGQTG
 ========================
 ========================
 MeropsID: M9E.004
 CleavageSite: Pro+Gly
 CutSequence: [A-Z][A-Z][A-Z]PG[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   143 to   150    LLEPGLNE
 from   333 to   340    LTDPGNVQ
 ========================
@@ -3806,7 +3806,7 @@ from   333 to   340    LTDPGNVQ
 MeropsID: M9E.004
 CleavageSite: Pro+Ile
 CutSequence: [A-Z][A-Z][A-Z]PI[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   255 to   262    YISPIGCL
 ========================
 
@@ -3814,7 +3814,7 @@ from   255 to   262    YISPIGCL
 MeropsID: M9E.004
 CleavageSite: Pro+Phe
 CutSequence: [A-Z][A-Z][A-Z]PF[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from     2 to     9    NLCPFGEV
 from   128 to   135    NLKPFERD
 ========================
@@ -3822,7 +3822,7 @@ from   128 to   135    NLKPFERD
 MeropsID: M9E.004
 CleavageSite: Pro+Phe
 CutSequence: [A-Z][A-Z][A-Z]PF[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   281 to   288    LTVPFGQK
 from   386 to   393    AAQPFLLR
 from   448 to   455    GTLPFTYM
@@ -3832,7 +3832,7 @@ from   448 to   455    GTLPFTYM
 MeropsID: M9E.004
 CleavageSite: Pro+Thr
 CutSequence: [A-Z][A-Z][A-Z]PT[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    49 to    56    GVSPTKLN
 from   164 to   171    GFQPTNGV
 ========================
@@ -3840,7 +3840,7 @@ from   164 to   171    GFQPTNGV
 MeropsID: M9E.004
 CleavageSite: Pro+Thr
 CutSequence: [A-Z][A-Z][A-Z]PT[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   343 to   350    VCHPTAWD
 from   726 to   733    GIQPTLGP
 ========================
@@ -3849,7 +3849,7 @@ from   726 to   733    GIQPTLGP
 MeropsID: M9E.007
 CleavageSite: Glu+Glu
 CutSequence: [A-Z][A-Z][A-Z]EE[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    19 to    26    STIEEQAK
 from    53 to    60    NITEENVQ
 from   178 to   185    PLYEEYVV
@@ -3861,14 +3861,14 @@ from   664 to   671    LFGEEDVR
 MeropsID: P01.001
 CleavageSite: Ala+Gly
 CutSequence: [A-Z][A-Z][A-Z]AG[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   140 to   147    IYQAGSTP
 ========================
 ========================
 MeropsID: P01.001
 CleavageSite: Ala+Gly
 CutSequence: [A-Z][A-Z][A-Z]AG[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    62 to    69    MNNAGDKW
 from   547 to   554    STEAGQKL
 ========================
@@ -3877,14 +3877,14 @@ from   547 to   554    STEAGQKL
 MeropsID: P01.001
 CleavageSite: Arg+Gly
 CutSequence: [A-Z][A-Z][A-Z]RG[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    68 to    75    FVIRGDEV
 ========================
 ========================
 MeropsID: P01.001
 CleavageSite: Arg+Gly
 CutSequence: [A-Z][A-Z][A-Z]RG[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   201 to   208    DYWRGDYE
 from   216 to   223    DYSRGQLI
 ========================
@@ -3893,14 +3893,14 @@ from   216 to   223    DYSRGQLI
 MeropsID: P01.001
 CleavageSite: Arg+Phe
 CutSequence: [A-Z][A-Z][A-Z]RF[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    11 to    18    NATRFASV
 ========================
 ========================
 MeropsID: P01.001
 CleavageSite: Arg+Phe
 CutSequence: [A-Z][A-Z][A-Z]RF[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   270 to   277    MWGRFWTN
 ========================
 
@@ -3908,7 +3908,7 @@ from   270 to   277    MWGRFWTN
 MeropsID: P01.001
 CleavageSite: Gly+Ala
 CutSequence: [A-Z][A-Z][A-Z]GA[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   392 to   399    LRNGANEG
 from   572 to   579    NVVGAKNM
 ========================
@@ -3917,7 +3917,7 @@ from   572 to   579    NVVGAKNM
 MeropsID: P01.001
 CleavageSite: Gly+Gly
 CutSequence: [A-Z][A-Z][A-Z]GG[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   111 to   118    SKVGGNYN
 ========================
 
@@ -3925,7 +3925,7 @@ from   111 to   118    SKVGGNYN
 MeropsID: P01.001
 CleavageSite: Gly+Phe
 CutSequence: [A-Z][A-Z][A-Z]GF[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   150 to   157    GVEGFNCY
 from   161 to   168    QSYGFQPT
 ========================
@@ -3933,7 +3933,7 @@ from   161 to   168    QSYGFQPT
 MeropsID: P01.001
 CleavageSite: Gly+Phe
 CutSequence: [A-Z][A-Z][A-Z]GF[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   323 to   330    MTQGFWEN
 from   396 to   403    ANEGFHEA
 ========================
@@ -3942,14 +3942,14 @@ from   396 to   403    ANEGFHEA
 MeropsID: P01.001
 CleavageSite: Gly+Ser
 CutSequence: [A-Z][A-Z][A-Z]GS[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   141 to   148    YQAGSTPC
 ========================
 ========================
 MeropsID: P01.001
 CleavageSite: Gly+Ser
 CutSequence: [A-Z][A-Z][A-Z]GS[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   101 to   108    QQNGSSVL
 ========================
 
@@ -3957,7 +3957,7 @@ from   101 to   108    QQNGSSVL
 MeropsID: P01.001
 CleavageSite: Leu+Arg
 CutSequence: [A-Z][A-Z][A-Z]LR[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   173 to   180    GKQLRPLY
 from   389 to   396    PFLLRNGA
 from   555 to   562    FNMLRLGK
@@ -3967,7 +3967,7 @@ from   555 to   562    FNMLRLGK
 MeropsID: P01.001
 CleavageSite: Leu+Gly
 CutSequence: [A-Z][A-Z][A-Z]LG[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   264 to   271    AHLLGDMW
 from   348 to   355    AWDLGKGD
 from   557 to   564    MLRLGKSE
@@ -3980,14 +3980,14 @@ from   728 to   735    QPTLGPPN
 MeropsID: P01.001
 CleavageSite: Leu+Leu
 CutSequence: [A-Z][A-Z][A-Z]LL[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   182 to   189    SFELLHAP
 ========================
 ========================
 MeropsID: P01.001
 CleavageSite: Leu+Leu
 CutSequence: [A-Z][A-Z][A-Z]LL[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from     4 to    11    SSWLLLSL
 from     5 to    12    SWLLLSLV
 from   139 to   146    QECLLLEP
@@ -4003,7 +4003,7 @@ from   581 to   588    VRPLLNYF
 MeropsID: P01.001
 CleavageSite: Leu+Leu-Leu
 CutSequence: [A-Z][A-Z][A-Z]LLL[A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from     4 to    11    SSWLLLSL
 from   139 to   146    QECLLLEP
 ========================
@@ -4012,7 +4012,7 @@ from   139 to   146    QECLLLEP
 MeropsID: P01.001
 CleavageSite: Lys+Gly
 CutSequence: [A-Z][A-Z][A-Z]KG[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   350 to   357    DLGKGDFR
 from   462 to   469    MVFKGEIP
 ========================
@@ -4021,7 +4021,7 @@ from   462 to   469    MVFKGEIP
 MeropsID: P01.001
 CleavageSite: Lys+Phe
 CutSequence: [A-Z][A-Z][A-Z]KF[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    28 to    35    FLDKFNHE
 from   310 to   317    EAEKFFVS
 ========================
@@ -4030,14 +4030,14 @@ from   310 to   317    EAEKFFVS
 MeropsID: P01.001
 CleavageSite: Phe+Gly
 CutSequence: [A-Z][A-Z][A-Z]FG[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from     3 to    10    LCPFGEVF
 ========================
 ========================
 MeropsID: P01.001
 CleavageSite: Phe+Gly
 CutSequence: [A-Z][A-Z][A-Z]FG[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   282 to   289    TVPFGQKP
 from   662 to   669    MILFGEED
 ========================
@@ -4046,7 +4046,7 @@ from   662 to   669    MILFGEED
 MeropsID: P01.001
 CleavageSite: Phe+Phe
 CutSequence: [A-Z][A-Z][A-Z]FF[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   311 to   318    AEKFFVSV
 from   680 to   687    SFNFFVTA
 ========================
@@ -4055,7 +4055,7 @@ from   680 to   687    SFNFFVTA
 MeropsID: P01.003
 CleavageSite: beta-Ala+His
 CutSequence: [A-Z][A-Z][A-Z]AH[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   261 to   268    CLPAHLLG
 from   369 to   376    FLTAHHEM
 ========================
@@ -4064,14 +4064,14 @@ from   369 to   376    FLTAHHEM
 MeropsID: S09.072
 CleavageSite: Tyr+Leu
 CutSequence: [A-Z][A-Z][A-Z]YL[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   116 to   123    NYNYLYRL
 ========================
 ========================
 MeropsID: S09.072
 CleavageSite: Tyr+Leu
 CutSequence: [A-Z][A-Z][A-Z]YL[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   638 to   645    NEMYLFRS
 ========================
 
@@ -4079,14 +4079,14 @@ from   638 to   645    NEMYLFRS
 MeropsID: S09.072
 CleavageSite: Tyr+Phe
 CutSequence: [A-Z][A-Z][A-Z]YF[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   154 to   161    FNCYFPLQ
 ========================
 ========================
 MeropsID: S09.072
 CleavageSite: Tyr+Phe
 CutSequence: [A-Z][A-Z][A-Z]YF[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   584 to   591    LLNYFEPL
 from   651 to   658    MRQYFLKV
 ========================
@@ -4095,7 +4095,7 @@ from   651 to   658    MRQYFLKV
 MeropsID: S09.073
 CleavageSite: Val-Pro+Phe-NH2
 CutSequence: [A-Z][A-Z]VPF[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   281 to   288    LTVPFGQK
 ========================
 
@@ -4103,7 +4103,7 @@ from   281 to   288    LTVPFGQK
 MeropsID: S09.079
 CleavageSite: Leu-Ala+Ser
 CutSequence: [A-Z][A-Z]LAS[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    43 to    50    SSLASWNY
 ========================
 
@@ -4111,7 +4111,7 @@ from    43 to    50    SSLASWNY
 MeropsID: S10.010
 CleavageSite: Phe7+Ile
 CutSequence: [A-Z][A-Z][A-Z]FI[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   509 to   516    DYSFIRYY
 ========================
 
@@ -4119,7 +4119,7 @@ from   509 to   516    DYSFIRYY
 MeropsID: S10.010
 CleavageSite: Trp89+Met90
 CutSequence: [A-Z][A-Z][A-Z]WM[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   458 to   465    KWRWMVFK
 from   470 to   477    KDQWMKKW
 ========================
@@ -4128,7 +4128,7 @@ from   470 to   477    KDQWMKKW
 MeropsID: S10.014
 CleavageSite: Phe-Phe+Val
 CutSequence: [A-Z][A-Z]FFV[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   312 to   319    EKFFVSVG
 from   681 to   688    FNFFVTAP
 ========================
@@ -4137,7 +4137,7 @@ from   681 to   688    FNFFVTAP
 MeropsID: S33.004
 CleavageSite: Met+Ala
 CutSequence: [A-Z][A-Z][A-Z]MA[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   149 to   156    NEIMANSL
 from   187 to   194    KNEMARAN
 from   380 to   387    QYDMAYAA
@@ -4147,7 +4147,7 @@ from   380 to   387    QYDMAYAA
 MeropsID: S33.004
 CleavageSite: Pro+Arg
 CutSequence: [A-Z][A-Z][A-Z]PR[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   674 to   681    NLKPRISF
 from   693 to   700    DIIPRTEV
 ========================
@@ -4156,7 +4156,7 @@ from   693 to   700    DIIPRTEV
 MeropsID: S33.004
 CleavageSite: Pro+Arg
 CutSequence: [A-Z][A-Z][A-Z]PR[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   674 to   681    NLKPRISF
 from   693 to   700    DIIPRTEV
 ========================
@@ -4165,14 +4165,14 @@ from   693 to   700    DIIPRTEV
 MeropsID: S33.004
 CleavageSite: Pro+Gly
 CutSequence: [A-Z][A-Z][A-Z]PG[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    77 to    84    QIAPGQTG
 ========================
 ========================
 MeropsID: S33.004
 CleavageSite: Pro+Gly
 CutSequence: [A-Z][A-Z][A-Z]PG[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   143 to   150    LLEPGLNE
 from   333 to   340    LTDPGNVQ
 ========================
@@ -4181,14 +4181,14 @@ from   333 to   340    LTDPGNVQ
 MeropsID: S33.004
 CleavageSite: Pro+Gly
 CutSequence: [A-Z][A-Z][A-Z]PG[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    77 to    84    QIAPGQTG
 ========================
 ========================
 MeropsID: S33.004
 CleavageSite: Pro+Gly
 CutSequence: [A-Z][A-Z][A-Z]PG[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   143 to   150    LLEPGLNE
 from   333 to   340    LTDPGNVQ
 ========================
@@ -4197,14 +4197,14 @@ from   333 to   340    LTDPGNVQ
 MeropsID: S33.004
 CleavageSite: Pro+Leu
 CutSequence: [A-Z][A-Z][A-Z]PL[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   156 to   163    CYFPLQSY
 ========================
 ========================
 MeropsID: S33.004
 CleavageSite: Pro+Leu
 CutSequence: [A-Z][A-Z][A-Z]PL[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    81 to    88    QMYPLQEI
 from   175 to   182    QLRPLYEE
 from   232 to   239    EIKPLYEH
@@ -4217,14 +4217,14 @@ from   587 to   594    YFEPLFTW
 MeropsID: S33.004
 CleavageSite: Pro+Leu
 CutSequence: [A-Z][A-Z][A-Z]PL[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   156 to   163    CYFPLQSY
 ========================
 ========================
 MeropsID: S33.004
 CleavageSite: Pro+Leu
 CutSequence: [A-Z][A-Z][A-Z]PL[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    81 to    88    QMYPLQEI
 from   175 to   182    QLRPLYEE
 from   232 to   239    EIKPLYEH
@@ -4237,7 +4237,7 @@ from   587 to   594    YFEPLFTW
 MeropsID: S33.004
 CleavageSite: Pro+Phe
 CutSequence: [A-Z][A-Z][A-Z]PF[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from     2 to     9    NLCPFGEV
 from   128 to   135    NLKPFERD
 ========================
@@ -4245,7 +4245,7 @@ from   128 to   135    NLKPFERD
 MeropsID: S33.004
 CleavageSite: Pro+Phe
 CutSequence: [A-Z][A-Z][A-Z]PF[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   281 to   288    LTVPFGQK
 from   386 to   393    AAQPFLLR
 from   448 to   455    GTLPFTYM
@@ -4255,7 +4255,7 @@ from   448 to   455    GTLPFTYM
 MeropsID: S33.004
 CleavageSite: Pro+Phe
 CutSequence: [A-Z][A-Z][A-Z]PF[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from     2 to     9    NLCPFGEV
 from   128 to   135    NLKPFERD
 ========================
@@ -4263,7 +4263,7 @@ from   128 to   135    NLKPFERD
 MeropsID: S33.004
 CleavageSite: Pro+Phe
 CutSequence: [A-Z][A-Z][A-Z]PF[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   281 to   288    LTVPFGQK
 from   386 to   393    AAQPFLLR
 from   448 to   455    GTLPFTYM
@@ -4273,7 +4273,7 @@ from   448 to   455    GTLPFTYM
 MeropsID: S33.004
 CleavageSite: Pro+Pro
 CutSequence: [A-Z][A-Z][A-Z]PP[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   730 to   737    TLGPPNQP
 ========================
 
@@ -4281,7 +4281,7 @@ from   730 to   737    TLGPPNQP
 MeropsID: S33.004
 CleavageSite: Pro+Pro
 CutSequence: [A-Z][A-Z][A-Z]PP[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   730 to   737    TLGPPNQP
 ========================
 
@@ -4289,7 +4289,7 @@ from   730 to   737    TLGPPNQP
 MeropsID: S33.004
 CleavageSite: Pro+Ser
 CutSequence: [A-Z][A-Z][A-Z]PS[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   250 to   257    NAYPSYIS
 ========================
 
@@ -4297,7 +4297,7 @@ from   250 to   257    NAYPSYIS
 MeropsID: S33.004
 CleavageSite: Pro+Ser
 CutSequence: [A-Z][A-Z][A-Z]PS[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   250 to   257    NAYPSYIS
 ========================
 
@@ -4305,14 +4305,14 @@ from   250 to   257    NAYPSYIS
 MeropsID: S33.008
 CleavageSite: Pro+Ala
 CutSequence: [A-Z][A-Z][A-Z]PA[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   186 to   193    LHAPATVC
 ========================
 ========================
 MeropsID: S33.008
 CleavageSite: Pro+Ala
 CutSequence: [A-Z][A-Z][A-Z]PA[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   260 to   267    GCLPAHLL
 from   497 to   504    YCDPASLF
 ========================
@@ -4321,14 +4321,14 @@ from   497 to   504    YCDPASLF
 MeropsID: S51.001
 CleavageSite: Asp+Leu
 CutSequence: [A-Z][A-Z][A-Z]DL[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    54 to    61    KLNDLCFT
 ========================
 ========================
 MeropsID: S51.001
 CleavageSite: Asp+Leu
 CutSequence: [A-Z][A-Z][A-Z]DL[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    35 to    42    EAEDLFYQ
 from   347 to   354    TAWDLGKG
 ========================
@@ -4337,7 +4337,7 @@ from   347 to   354    TAWDLGKG
 MeropsID: S81.001
 CleavageSite: epsilon-(gamma-Glu)+Lys
 CutSequence: [A-Z][A-Z][A-Z]EK[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   309 to   316    KEAEKFFV
 from   454 to   461    YMLEKWRW
 from   698 to   705    TEVEKAIR
@@ -4347,7 +4347,7 @@ from   698 to   705    TEVEKAIR
 MeropsID: T02.002
 CleavageSite: beta-Asp+Ala
 CutSequence: [A-Z][A-Z][A-Z]DA[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   292 to   299    DVTDAMVD
 from   300 to   307    QAWDAQRI
 from   710 to   717    RINDAFRL
@@ -4357,7 +4357,7 @@ from   710 to   717    RINDAFRL
 MeropsID: T02.002
 CleavageSite: beta-Asp+Ala
 CutSequence: [A-Z][A-Z][A-Z]DA[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   292 to   299    DVTDAMVD
 from   300 to   307    QAWDAQRI
 from   710 to   717    RINDAFRL
@@ -4367,7 +4367,7 @@ from   710 to   717    RINDAFRL
 MeropsID: T02.002
 CleavageSite: beta-Asp+Gly
 CutSequence: [A-Z][A-Z][A-Z]DG[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   210 to   217    NGVDGYDY
 ========================
 
@@ -4375,14 +4375,14 @@ from   210 to   217    NGVDGYDY
 MeropsID: T02.002
 CleavageSite: beta-Asp+Ile
 CutSequence: [A-Z][A-Z][A-Z]DI[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   132 to   139    FERDISTE
 ========================
 ========================
 MeropsID: T02.002
 CleavageSite: beta-Asp+Ile
 CutSequence: [A-Z][A-Z][A-Z]DI[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   540 to   547    HKCDISNS
 from   690 to   697    NVSDIIPR
 ========================
@@ -4391,14 +4391,14 @@ from   690 to   697    NVSDIIPR
 MeropsID: T02.002
 CleavageSite: beta-Asp+Leu
 CutSequence: [A-Z][A-Z][A-Z]DL[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    54 to    61    KLNDLCFT
 ========================
 ========================
 MeropsID: T02.002
 CleavageSite: beta-Asp+Leu
 CutSequence: [A-Z][A-Z][A-Z]DL[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    35 to    42    EAEDLFYQ
 from   347 to   354    TAWDLGKG
 ========================
@@ -4407,14 +4407,14 @@ from   347 to   354    TAWDLGKG
 MeropsID: T02.002
 CleavageSite: beta-Asp+Leu
 CutSequence: [A-Z][A-Z][A-Z]DL[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    54 to    61    KLNDLCFT
 ========================
 ========================
 MeropsID: T02.002
 CleavageSite: beta-Asp+Leu
 CutSequence: [A-Z][A-Z][A-Z]DL[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    35 to    42    EAEDLFYQ
 from   347 to   354    TAWDLGKG
 ========================
@@ -4423,7 +4423,7 @@ from   347 to   354    TAWDLGKG
 MeropsID: T02.002
 CleavageSite: beta-Asp+Lys
 CutSequence: [A-Z][A-Z][A-Z]DK[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    27 to    34    TFLDKFNH
 from    64 to    71    NAGDKWSA
 from   108 to   115    LSEDKSKR
@@ -4434,7 +4434,7 @@ from   627 to   634    ALGDKAYE
 MeropsID: T02.002
 CleavageSite: beta-Asp+Met
 CutSequence: [A-Z][A-Z][A-Z]DM[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   266 to   273    LLGDMWGR
 from   379 to   386    IQYDMAYA
 ========================
@@ -4443,7 +4443,7 @@ from   379 to   386    IQYDMAYA
 MeropsID: T02.002
 CleavageSite: beta-Asp+Ser
 CutSequence: [A-Z][A-Z][A-Z]DS[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from    63 to    70    VYADSFVI
 from   107 to   114    NNLDSKVG
 ========================
@@ -4452,7 +4452,7 @@ from   107 to   114    NNLDSKVG
 MeropsID: T02.002
 CleavageSite: beta-Asp+Val
 CutSequence: [A-Z][A-Z][A-Z]DV[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   222 to   229    LIEDVEHT
 from   289 to   296    PNIDVTDA
 from   666 to   673    GEEDVRVA
@@ -4462,7 +4462,7 @@ from   666 to   673    GEEDVRVA
 MeropsID: U9B.003
 CleavageSite: Glu+Glu
 CutSequence: [A-Z][A-Z][A-Z]EE[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    19 to    26    STIEEQAK
 from    53 to    60    NITEENVQ
 from   178 to   185    PLYEEYVV
@@ -4474,7 +4474,7 @@ from   664 to   671    LFGEEDVR
 MeropsID: U9B.004
 CleavageSite: Ala+Ala
 CutSequence: [A-Z][A-Z][A-Z]AA[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    13 to    20    AVTAAQST
 from   383 to   390    MAYAAQPF
 from   409 to   416    SLSAATPK
@@ -4485,7 +4485,7 @@ from   529 to   536    LCQAAKHE
 MeropsID: U9B.004
 CleavageSite: Gly+Ala
 CutSequence: [A-Z][A-Z][A-Z]GA[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   392 to   399    LRNGANEG
 from   572 to   579    NVVGAKNM
 ========================
@@ -4494,7 +4494,7 @@ from   572 to   579    NVVGAKNM
 MeropsID: U9B.004
 CleavageSite: Gly+Gly
 CutSequence: [A-Z][A-Z][A-Z]GG[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   111 to   118    SKVGGNYN
 ========================
 
@@ -4502,14 +4502,14 @@ from   111 to   118    SKVGGNYN
 MeropsID: U9B.005
 CleavageSite: L-Ala+Gly
 CutSequence: [A-Z][A-Z][A-Z]AG[A-Z][A-Z][A-Z]
-Found in the Spike protein sequence: 
+Found in the Spike protein sequence:
 from   140 to   147    IYQAGSTP
 ========================
 ========================
 MeropsID: U9B.005
 CleavageSite: L-Ala+Gly
 CutSequence: [A-Z][A-Z][A-Z]AG[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from    62 to    69    MNNAGDKW
 from   547 to   554    STEAGQKL
 ========================
@@ -4518,7 +4518,7 @@ from   547 to   554    STEAGQKL
 MeropsID: U9B.005
 CleavageSite: L-Leu+Gly
 CutSequence: [A-Z][A-Z][A-Z]LG[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   264 to   271    AHLLGDMW
 from   348 to   355    AWDLGKGD
 from   557 to   564    MLRLGKSE
@@ -4531,7 +4531,7 @@ from   728 to   735    QPTLGPPN
 MeropsID: U9B.005
 CleavageSite: L-Lys+Gly
 CutSequence: [A-Z][A-Z][A-Z]KG[A-Z][A-Z][A-Z]
-Found in the Ace2 protein sequence: 
+Found in the Ace2 protein sequence:
 from   350 to   357    DLGKGDFR
 from   462 to   469    MVFKGEIP
 ========================
