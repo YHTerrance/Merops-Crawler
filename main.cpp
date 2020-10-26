@@ -54,10 +54,6 @@ void findCutSites(Cut& currentCut, Protein prot[], ofstream fout[]) {
     while((index = currentCut.sequence.find('*')) != string::npos)
         currentCut.sequence.replace(index, 1 , "[A-Z]");
 
-    cout << "Merops ID: " << currentCut.meropsID << endl;
-    cout << "Merops Name: " << currentCut.meropsName << endl;
-    cout << "Cleavage Site: " << currentCut.cleavageSite << endl;
-    cout << "Cut Sequence: " << currentCut.sequence << endl;
 
     // Try to match sequence using regex
     regex e(currentCut.sequence.c_str());
@@ -69,8 +65,14 @@ void findCutSites(Cut& currentCut, Protein prot[], ofstream fout[]) {
         string::const_iterator searchStart(prot[i].sequence.cbegin());
 
         while(regex_search(searchStart, prot[i].sequence.cend(), res, e)) {
-            if(!found[i])
-                cout << "Found in " << prot[i].name << endl;
+            if(!found[i]) {
+                    cout << "==========================" << endl;
+                    cout << "Merops ID: " << currentCut.meropsID << endl;
+                    cout << "Merops Name: " << currentCut.meropsName << endl;
+                    cout << "Cleavage Site: " << currentCut.cleavageSite << endl;
+                    cout << "Cut Sequence: " << currentCut.sequence << endl;
+                    cout << "Found in " << prot[i].name << endl;
+            }
 
             found[i] = true;
             int start = prot[i].sequence.find(res[0].str());
@@ -170,7 +172,7 @@ int main(int argc, char *argv[]) {
     vector<string> line;
     // Get first line
     line = getTokenedLine(finCSV);
-    int n = 1000; // Specify the lines processed
+    int n = 100000000; // Specify the lines processed
 
     while(n-- && line.size() >= 2) {
 
@@ -181,13 +183,17 @@ int main(int argc, char *argv[]) {
         }
 
         // if the line specfifies a cleavage site of the merops ID specified before
-        else {
+        else if(line[1].length() == 8){
             currentCut.cleavageSite = line[0];
+            currentCut.sequence = line[1];
+
+            // Reset sequence file pointer to start
+            fin[0].seekg(ios::beg);
+            fin[1].seekg(ios::beg);
 
             findCutSites(currentCut, prot, fout);
-
-            // Reset fin[]
         }
+        line = getTokenedLine(finCSV);
     }
 
     // Close all file descriptors

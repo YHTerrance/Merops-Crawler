@@ -1,0 +1,221 @@
+A26.001 omptin IAA-Arg+Arg-NHPhNO2
+A26.003 plasminogen activator Pla DABCYL-Arg+Arg-Ala-EDANS
+C01.011 calotropain Suc-Ala-Ala-Ala+NHPhNO2
+C01.026 ananain Cys+Lys
+C01.026 ananain Met+Gln
+C01.050 histolysain Arg-Arg+NHMec
+C01.060 cathepsin B ac-Arg-Arg+NHMec
+C01.062 cathepsin B-like peptidase (platyhelminth) Tos-Gly-Pro-Lys+NHMec
+C01.099 ervatamin B Suc-Ala-Ala-Ala+NHPhNO2
+C01.124 dipeptidylpeptidase I (Plasmodium-type) His-Ser+NHNap
+C01.165 TgCPC1 (Toxoplasma gondii) Arg-Arg+NHMec
+C14.035 metacaspase Yca1 (Saccharomyces cerevisiae-type) Tos-Gly-Pro-Lys+NHPhNO2
+C15.010 pyroglutamyl-peptidase I (chordate) Glp+Leu-Tyr-Glu-Asn-Lys-Pro-Arg-Arg-Pro-Tyr-Ile-Leu
+C25.002 gingipain K Tos-Gly-Pro-Lys+NHPhNO2
+C47.002 staphopain B Suc-Ala-Ala-Ala+NHPhNO2
+C54.001 ATG4 peptidase Boc-Thr-Phe-Gly+NHMec
+C56.006 Hsp31 peptidase Ala-Ala-Ala+NHMec
+C9C.001 dipeptidyl-dipeptidase Gly-Ala+Gly-Ala
+C9G.031 protease-B-17N-1 (Bacillus sp. 17N-1) Suc-Ala-Ala-Ala+NHPhNO2
+M01.001 aminopeptidase N Cys+Gly
+M01.005 alanyl aminopeptidase (bacterial-type) Cys+Gly
+M01.008 pyroglutamyl-peptidase II Glp+Phe-Pro-NH2
+M01.010 cytosol alanyl aminopeptidase Arg+Arg
+M01.010 cytosol alanyl aminopeptidase Leu+Ser-Phe
+M03.005 peptidyl-dipeptidase Dcp Ac-Ala+Ala-Ala
+M04.001 thermolysin 3-carboxypropanoyl-Ala-Ala+Leu-NHPhNO2
+M04.001 thermolysin Suc-Ala-Ala+Leu-NHPhNO2
+M04.005 pseudolysin Suc-Ala+Ala-Ala-NHPhNO2
+M10.024 membrane-type matrix metallopeptidase-6 Suc-Ala-Ala-Ala+NHPhNO2
+M12.001 astacin Suc-Ala-Ala-Ala+NHPhNO2
+M12.157 mucrolysin Gly+Gly
+M12.334 fibrinogenase-2 (Deinagkistrodon acutus) Tos-Gly-Pro-Lys+NHPhNO2
+M13.001 neprilysin Suc-Ala-Ala+Leu-NHPhNO2
+M14.001 carboxypeptidase A1 Dns-Gly-Gly+Phe
+M14.001 carboxypeptidase A1 furylacryloyl-Phe+Ala
+M14.007 carboxypeptidase T Dnp-Ala-Ala+Arg
+M14.012 metallocarboxypeptidase Z Dns-Phe-Gly+Arg
+M14.017 carboxypeptidase A4 furylacryloyl-Phe+Ala
+M14.018 carboxypeptidase A6 FA-Phe+Ala
+M17.001 leucyl aminopeptidase 3 Cys+Gly
+M17.003 PepA aminopeptidase Cys+Gly
+M17.004 PepB aminopeptidase Cys+Gly
+M17.004 PepB aminopeptidase Glu+Leu
+M17.013 cysteinylglycinase (Treponema denticola)-like peptidase Cys+Gly
+M17.013 cysteinylglycinase (Treponema denticola)-like peptidase Cys+Gly
+M17.015 aminopeptidase pepZ (Staphylococcus sp.) Cys+Gly
+M18.002 aspartyl aminopeptidase Asp+Ser
+M19.001 membrane dipeptidase Cys+Gly
+M19.004 membrane-bound dipeptidase-3 (Cys+Gly)2
+M20.003 peptidase T Ala+Ala-Ala
+M20.003 peptidase T Gly+Ala-Ala
+M20.003 peptidase T Gly+Gly-Phe
+M20.003 peptidase T Phe+Gly-Gly
+M20.004 peptidase V Phe+Gly-Gly
+M20.005 carnosine dipeptidase II Gly+Gly
+M20.006 carnosine dipeptidase I Gly+Gly
+M20.006 carnosine dipeptidase I Phe+Ala
+M20.007 Xaa-His dipeptidase Cys+Gly
+M20.007 Xaa-His dipeptidase Cys+Gly
+M20.010 DapE peptidase Asp+Cys
+M20.010 DapE peptidase Asp+Ser
+M20.010 DapE peptidase Asp+Thr
+M20.012 Pep581 peptidase Ala+Ala-Ala
+M20.013 Xaa-methyl-His dipeptidase Gly+Gly
+M20.017 Dug1 peptidase Cys+Gly
+M23.002 staphylolysin peptide-Gly-Gly+Phe-peptide
+M23.002 staphylolysin Suc-Gly-Gly+Nph-NH2
+M23.002 staphylolysin Suc-Gly+Gly-Nph-NH2
+M23.002 staphylolysin Suc-Gly-Gly+Phe-NH2
+M23.002 staphylolysin Suc-Gly+Gly-Phe-NH2
+M23.003 Mername-AA291 peptidase Suc-Gly-Gly+Nph-NH2
+M23.003 Mername-AA291 peptidase Suc-Gly-Gly+Phe-NH2
+M24.002 methionyl aminopeptidase 2 Met1+Ala-peptide
+M24.003 Xaa-Pro dipeptidase (bacteria-type) Phe+Pro
+M24.004 aminopeptidase P (bacteria) Phe+Pro
+M24.006 bacillus Xaa-Pro aminopeptidase Phe+Pro
+M24.008 hyperthermophile prolidase Phe+Pro
+M24.008 hyperthermophile prolidase Phe+Pro
+M24.009 aminopeptidase P1 Phe+Pro-NHNap
+M24.026 aminopeptidase P3 Tyr+Ser-Ser
+M24.026 aminopeptidase P3 Tyr+Ser-Ser
+M24.026 aminopeptidase P3 Tyr+Ser-Ser
+M24.033 aminopeptidase P (Streptomyces-type) Phe+Pro
+M24.033 aminopeptidase P (Streptomyces-type) Phe+Pro-Arg
+M24.034 PH0974 dipeptidase Phe+Pro
+M24.038 aminopeptidase P (Plasmodium falciparum-type) Phe+Pro-Acc
+M24.038 aminopeptidase P (Plasmodium falciparum-type) Trp+Pro-Acc
+M28.001 aminopeptidase Y Arg+Arg-NHMec
+M28.004 aminopeptidase AC Phe+Ala
+M28.004 aminopeptidase AC Phe+Gly-Gly
+M28.014 carboxypeptidase Q Cys+Tyr
+M28.014 carboxypeptidase Q His+Phe
+M28.019 aminopeptidase SSAP (Streptomyces septatus) Phe+Ser
+M29.001 aminopeptidase T Val+Gly-Gly
+M42.004 PhTET2 aminopeptidase Ala+Ala-Ala-NHPhNO2
+M42.008 YpdE-type putative peptidase Ala+Pro-Ala
+M49.001 dipeptidyl-peptidase III Arg-Arg+MCA
+M49.001 dipeptidyl-peptidase III Arg-Arg+NHNap
+M49.005 Nudix hydrolase 3 Arg-Arg+NHNap
+M49.UPW family M49 unassigned peptidases Arg-Arg+NHMec
+M49.UPW family M49 unassigned peptidases Arg-Arg+NHNap
+M49.UPW family M49 unassigned peptidases His-Phe+NHNap
+M49.UPW family M49 unassigned peptidases His-Ser+NHNap
+M55.001 D-aminopeptidase DppA D-Ala+Gly-Gly
+M61.002 BcepAP aminopeptidase (Burkholderia cepacia) Glu-Val-Phe
+M75.001 imelysin Tos-Gly-Pro-Lys+NHPhNO2
+M77.001 tryptophanyl aminopeptidase 7-DMATS-type peptidase H-Trp+Phe-OH
+M77.002 tryptophanyl aminopeptidase FgaPT1 (Aspergillus fumigatus) H-Trp+Phe-OH
+M77.003 tryptophanyl aminopeptidase cdpNPT-type peptidase H-Trp+Phe-OH
+M77.004 tryptophanyl aminopeptidase FtmPT1-type peptidase H-Trp+Phe-OH
+M9A.008 tryptophanyl aminopeptidase (Trichosporon cutaneum) Trp+Phe
+M9A.008 tryptophanyl aminopeptidase (Trichosporon cutaneum) Trp+Tyr
+M9A.012 glycyl aminopeptidase (Actinomucor elegans) Gly+Gly
+M9B.004 Met-Xaa dipeptidase Met+Glu
+M9G.003 acrolysin Val+Glu-Gln-Cya-Cya-Ala-Ser-Val-Cya-Ser-Leu-Tyr-Gln-Leu-Glu-Asn-Tyr-Cya-Asn
+M9G.005 succinyl-tri-alanyl-p-nitroaniline hydrolase Suc-Ala+Ala-Ala-NHPhNO2
+M9G.005 succinyl-tri-alanyl-p-nitroaniline hydrolase Suc-Ala-Ala+Ala-NHPhNO2
+M9G.029 MAP1 peptidase (Myxococcus xanthus Suc-Ala-Ala-Ala+NHPhNO2
+P01.001 DmpA aminopeptidase D-Ala+Gly-Gly
+P01.001 DmpA aminopeptidase Gly+Gly
+P01.001 DmpA aminopeptidase Gly+Gly-NH2
+P01.001 DmpA aminopeptidase Phe+Gly-Gly
+P01.001 DmpA aminopeptidase Ser+Ser-Ser
+S01.001 chymotrypsin A (cattle-type) morpholinecarbonyl-Lys-Gly-Leu-Ser-Ser-Gln-Cys+NHMec
+S01.015 tryptase beta Ac-Orn-Asn-Arg-NHMec
+S01.015 tryptase beta Ac-Orn-Tyr-Arg+NHMec
+S01.025 mast cell peptidase 6 (mouse numbering) Tos-Gly-Pro-Lys+NHPhNO2
+S01.026 mast cell peptidase 7 (mouse numbering) Tos-Gly-Pro-Lys+NHPhNO2
+S01.028 tryptase gamma 1 Ac-Orn-Tyr-Arg+NHMec
+S01.031 peptidase 9 (Dermatophagoides-type) Suc-Ala-Ala-Ala+NHPhNO2
+S01.081 kallikrein-related peptidase 15 Gly-Pro-Lys+NHMec
+S01.118 tryptase (mammalian Tos-Gly-Pro-Lys+NHPhNO2
+S01.131 elastase-2 Suc-Ala-Ala-Ala+NHMec
+S01.131 elastase-2 Suc-Ala-Ala-Ala+NHPhNO2
+S01.134 myeloblastin ABZ-Tyr-Tyr-Abu+ANB-Asn-NH2
+S01.134 myeloblastin ABZ-Tyr-Tyr-Abu+ANB-Lys-NH2
+S01.142 duodenase Tos-Gly-Pro-Lys+NHPhNO2
+S01.143 tryptase alpha Tos-Gly-Pro-Lys+NHPhNO2
+S01.147 granzyme H Boc-Ala-Ala-Tyr+SBzl
+S01.151 trypsin 1 Tos-Gly-Pro-Lys+NHMec
+S01.151 trypsin 1 Tos-Gly-Pro-Lys+NHPhNO2
+S01.153 elastase-1 Ac-Ala-Ala-Ala+OMe
+S01.153 elastase-1 Ac-Ala-Pro-Ala+NHPhNO2
+S01.153 elastase-1 Suc-Ala-Ala-Ala+NHMec
+S01.153 elastase-1 Suc-Ala-Ala-Ala+NHPhNO2
+S01.153 elastase-1 Suc-Ala-Pro-Ala+NHPhNO2
+S01.154 pancreatic endopeptidase E Ac-Ala-Ala-Ala+OMe
+S01.154 pancreatic endopeptidase E Suc-Ala-Ala-Ala+NHPhNO2
+S01.155 pancreatic elastase II peptide-Phe+Ala-peptide
+S01.162 kallikrein-related peptidase 3 morpholinecarbonyl-Lys-Gly-Leu-Ser-Ser-Gln-Cys+NHMec
+S01.162 kallikrein-related peptidase 3 Suc-Gly-Pro-Lys+NHPhNO2
+S01.174 mesotrypsin Tos-Gly-Pro-Lys+NHPhNO2
+S01.174 mesotrypsin Tos-Gly-Pro-Lys+NHPhNO2
+S01.216 coagulation factor Xa Bz-Ile-Glu(piperidine amide)-Gly-Arg+NHPhNO2
+S01.220 coagulation factor B (Limulus Bz-Thr-Thr-Arg+NHMec
+S01.224 hepsin Bz-Leu-Ser-Arg+NHPhNO2
+S01.233 plasmin Tos-Gly-Pro-Lys+NHPhNO2
+S01.236 kallikrein-related peptidase 6 Tos-Gly-Pro-Lys+NHMec
+S01.262 streptogrisin B Suc-Ala-Pro-Ala+NHPhNO2
+S01.262 streptogrisin B Suc-Gly-Gly-Phe+NHPhNO2
+S01.266 streptogrisin D Ac-Ala-Ala-Ala-OMe
+S01.267 streptogrisin E Ac-Ala-Ala-Ala-OMe
+S01.268 alpha-lytic endopeptidase Ac-Ala-Pro-Ala+NHPhNO2
+S01.276 yeast-lytic peptidase Suc-Ala-Pro-Ala+NHPhNO2
+S01.294 HAT-like 3 peptidase Gly-Pro-Lys+NHPhNO2
+S01.422 fibrinolytic enzyme A (Annelida-type) Suc-Ala-Ala-Ala+NHPhNO2
+S01.425 trocarin D Bz-Ile-Glu(piperidine amide)-Gly-Arg+NHPhNO2
+S01.428 LV-Ka peptidase Tos-Gly-Pro-Lys+NHPhNO2
+S01.438 fire ant chymotrypsin Suc-Phe-Val-Phe+NHPhNO2
+S01.463 LV-PA peptidase (Lachesis muta muta) Tos-Gly-Pro-Lys+NHPhNO2
+S08.001 subtilisin Carlsberg Suc-Ala-Ala-Ala-NHPhNO2
+S08.007 thermitase Ac-Ala-Ala-Ala+NHPhNO2
+S08.007 thermitase Ac-Ala-Ala-Ala+OMe
+S08.007 thermitase Suc-Ala-Ala-Ala+NHPhNO2
+S08.009 subtilisin Ak1 Suc-Ala-Ala-Ala+NHPhNO2
+S08.024 dentilisin Suc-Ala-Ala-Ala+NHPhNO2
+S08.034 subtilisin BPN' Ac-Ala-Ala-Ala-OMe
+S08.037 subtilisin DY Suc-Gly-Gly-Phe+NHPhNO2
+S08.057 thermomycolin Ac-Ala-Ala-Ala+OCH3
+S08.071 furin peptide-Arg-Arg+peptide
+S08.072 PCSK1 peptidase peptide-Arg-Arg+peptide
+S08.073 PCSK2 peptidase peptide-Arg-Arg+peptide
+S08.074 PCSK4 peptidase peptide-Arg-Arg+peptide
+S08.077 PCSK7 peptidase peptide-Arg-Arg+peptide
+S08.079 PrcA peptidase Tos-Gly-Pro-Lys+NHPhNO2
+S08.091 tripeptidyl-peptidase S Ala-Pro-Ala+NHNap
+S08.092 cucumisin Glp-Ala-Ala-Leu+NHPhNO2
+S08.092 cucumisin Suc-Ala-Ala-Ala+NHPhNO2
+S08.092 cucumisin Suc-Ala-Pro-Ala+NHPhNO2
+S08.101 halolysin 1 Glp-Ala-Ala-Leu+NHPhNO2
+S08.101 halolysin 1 Suc-Ala-Ala-Ala+NHPhNO2
+S08.120 cuticle-degrading peptidase of nematode-trapping fungus Suc-Gly-Gly-Phe+NHPhNO2
+S09.001 prolyl oligopeptidase Suc-Ala-Pro-Ala+NHPhNO2
+S09.001 prolyl oligopeptidase Suc-Ala-Pro-Ala+NHPhNO2
+S09.001 prolyl oligopeptidase Suc-Ala-Pro-Ala+NHPhNO2
+S09.010 oligopeptidase B Arg-Arg+NHPhNO2
+S09.012 dipeptidyl-peptidase 5 His-Ser+2-(4-methoxy)naphthylamide
+S09.019 dipeptidyl-peptidase 9 Trp-Pro+NHMec
+S09.070 acylaminoacyl peptidase (Aeropyrum-type) Glutaryl-Gly-Gly-Phe+NHMec
+S09.073 Xaa-Pro dipeptidylpeptidase Val-Pro+Ala-NH2
+S10.006 Mername-AA083 peptidase FA-Phe+Ala
+S10.014 carboxypeptidase O FA-Phe+Ala
+S12.002 aminopeptidase DmpB D-Ala+Gly-Gly
+S12.009 microcystinase MlrB NH2-Adda-isoGlu-methyldehydroAla+Leu-beta-methylAsp-Arg
+S28.002 dipeptidyl-peptidase II Ala-Ala+Ala
+S28.002 dipeptidyl-peptidase II Gly-Hyp+Ala
+S28.002 dipeptidyl-peptidase II Phe-Pro+NHNap
+S33.002 tripeptidyl-peptidase A Ala-Pro-Ala+NHPhNO2
+S33.004 prolyl dipeptidase (Lactobacillus-type) Pro+Glu
+S33.004 prolyl dipeptidase (Lactobacillus-type) Pro+Glu
+S33.006 tripeptidyl-peptidase B Ala-Pro-Ala+NHPhNO2
+S33.023 Hip1 peptidase (Mycobacterium tuberculosis) Ala-Pro-Ala+NHPhNO2
+S53.003 tripeptidyl-peptidase I Ala-Ala-Ala+NHPhNO2
+S85.001 small protease (Pseudomonas aeruginosa) Tos-Gly-Pro-Lys+NHPhNO2
+T02.001 glycosylasparaginase precursor beta-Asp+Gly-Val
+T02.001 glycosylasparaginase precursor beta-Asp+Ser-NH2
+T02.002 isoaspartyl dipeptidase (threonine type) beta-Asp+Gly-Val
+T02.002 isoaspartyl dipeptidase (threonine type) beta-Asp+Ser
+T02.002 isoaspartyl dipeptidase (threonine type) beta-Asp+Thr
+U9B.004 peptidyl-D-amino acid hydrolase (cephalopod) Gly+Gly
+U9C.001 dipeptidylaminopeptidase dDAP Arg-Arg+NHNap
