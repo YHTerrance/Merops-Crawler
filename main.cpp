@@ -1,179 +1,201 @@
-#include <cstring>
+#include <string>
 #include <iostream>
-#include <cstdlib>
 #include <fstream>
+#include <sstream>
 #include <regex>
 #include <vector>
-#include <sstream>
+#include <cassert>
 #include <iomanip>
 
 using namespace std;
 
-vector<string> getNextLineAndSplitIntoTokens(istream& str)
-{
+
+typedef struct cut {
+    string sequence;
+    string meropsID;
+    string meropsName;
+    string cleavageSite;
+}Cut;
+
+typedef struct protein {
+    string sequence;
+    string name;
+}Protein;
+
+
+vector<string> getTokenedLine(istream& str) {
     vector<string> result;
     string line;
-    getline(str,line);
+    getline(str, line);
 
     stringstream lineStream(line);
     string cell;
 
+    // Split by ',' and store in cell
     while(getline(lineStream, cell, ','))
-    {
         result.push_back(cell);
-    }
-    // This checks for a trailing comma with no data after it.
-    if (!lineStream && cell.empty())
-    {
-        // If there was a trailing comma then add an empty element.
+
+    // Check for trailing comma with no data after it
+    if(!lineStream && cell.empty())
+        // Push empty element
         result.push_back("");
-    }
+
     return result;
 }
 
-void findCutSites(string& meropsID, string& cleavageSite, string& cutSequence, ofstream& foutSpike, ofstream &foutAce2)
-{
-    ifstream fin1, fin2;
-    fin1.open("spSequence");
-    fin2.open("ace2Sequence");
-    if(!fin1)
-        cout << "Can not open spSequence" << endl;
-    if(!fin2)
-        cout << "Can not open ace2Sequence" << endl;
+void findCutSites(Cut& currentCut, Protein prot[], ofstream fout[]) {
 
-    string ace2Sequence, spSequence, input;
-
-    while(getline(fin1, input))
-        spSequence += input;
-    int spLen = spSequence.length();
-
-    while(getline(fin2, input))
-        ace2Sequence += input;
-    int ace2Len = ace2Sequence.length();
-
-    if(cutSequence.find("!") != string::npos || cutSequence == "********")
+    // The currentCut.sequence has no selection specificity and is therefore not considered
+    if(currentCut.sequence == "********")
         return;
 
-    while(cutSequence.find("*") != string::npos)
-    {
-        int index = cutSequence.find("*");
-        cutSequence.replace(index, 1, "[A-Z]");
-    }
+    // Replace all '*' with regex [A-Z]
+    int index;
+    while((index = currentCut.sequence.find('*')) != string::npos)
+        currentCut.sequence.replace(index, 1 , "[A-Z]");
 
-    #ifdef DEBUG
-    cout << "cutSequence " << cutSequence << endl;
-    #endif
+    cout << "Merops ID: " << currentCut.meropsID << endl;
+    cout << "Merops Name: " << currentCut.meropsName << endl;
+    cout << "Cleavage Site: " << currentCut.cleavageSite << endl;
+    cout << "Cut Sequence: " << currentCut.sequence << endl;
 
-    regex e(cutSequence.c_str());
+    // Try to match sequence using regex
+    regex e(currentCut.sequence.c_str());
     smatch res;
 
-    string::const_iterator searchStart( spSequence.cbegin() );
-    bool found1 = false;
-    while (regex_search( searchStart, spSequence.cend(), res, e ))
-    {
-        if(!found1)
-        {
-            cout << "========================" << endl;
-            cout << "MeropsID: " << meropsID << endl;
-            cout << "CleavageSite: " << cleavageSite << endl;
-            cout << "CutSequence: " << cutSequence << endl;
-            cout << "Found in the Spike protein sequence: " << endl;
+    bool found[2] = {false, false};
+
+    for(int i = 0; i < 2; ++i) {
+        string::const_iterator searchStart(prot[i].sequence.cbegin());
+
+        while(regex_search(searchStart, prot[i].sequence.cend(), res, e)) {
+            if(!found[i])
+                cout << "Found in " << prot[i].name << endl;
+
+            found[i] = true;
+            int start = prot[i].sequence.find(res[0].str());
+
+            cout << "from " << setw(5) << start + 1 << " to " <<  setw(5) << start + res[0].str().length();
+
+            // Go back at keep searching so that it only increments by one
+            cout << setw(12) << res[0] << endl;
+            searchStart = res.suffix().first - 7;
         }
 
-        found1 = true;
-        int start = spSequence.find(res[0].str());
-        cout << "from " << setw(5) << start + 1 << " to " <<  setw(5) << start + res[0].str().length();
-        cout << setw(12) << res[0] << endl;
-        searchStart = res.suffix().first - 7;
+        if(found[i])
+            cout << "========" << endl;
     }
-    if(found1)
-        cout << "========================" << endl;
 
-    searchStart = ace2Sequence.cbegin();
-    bool found2 = false;
-    while (regex_search( searchStart, ace2Sequence.cend(), res, e ))
-    {
-        if(!found2)
-        {
-            cout << "========================" << endl;
-            cout << "MeropsID: " << meropsID << endl;
-            cout << "CleavageSite: " << cleavageSite << endl;
-            cout << "CutSequence: " << cutSequence << endl;
-            cout << "Found in the Ace2 protein sequence: " << endl;
-        }
+    // Only cut sequence 1
+    if(found[0] && !found[1])
+        fout[0] << currentCut.meropsID << " " << currentCut.meropsName << " " << currentCut.cleavageSite << endl;
 
-        found2 = true;
-        int start = ace2Sequence.find(res[0].str());
-        cout << "from " << setw(5) << start + 1 << " to " <<  setw(5) << start + res[0].str().length();
-        cout << setw(12) << res[0] << endl;
-        searchStart = res.suffix().first - 7;
-    }
-    if(found2)
-        cout << "========================" << endl;
-
-    if(found1 && !found2)
-        foutSpike << meropsID << " " << cleavageSite << endl;
-    if(!found1 && found2)
-        foutAce2 << meropsID << " " << cleavageSite << endl;
-    if(found1 || found2)
+    // Only cut sequence 2
+    else if(!found[0] && found[1])
+        fout[1] << currentCut.meropsID << " " << currentCut.meropsName << " " << currentCut.cleavageSite << endl;
+    if(found[0] || found[1])
         cout << endl;
-    fin1.close();
-    fin2.close();
+
 }
 
+void readSequence(ifstream fin[], Protein prot[]) {
+    // Temporary varialbe to store every line
+    string line;
 
+    // Remove first line
+    getline(fin[0], line);
+    getline(fin[1], line);
 
-int main()
-{
-    ifstream finCSV;
-    ofstream foutSpike, foutAce2;
-    finCSV.open("merops.csv");
-    foutSpike.open("OnlySpike.txt");
-    foutAce2.open("OnlyAce2.txt");
+    // Read in sequence data
+    while(getline(fin[0], line))
+        prot[0].sequence += line;
+    while(getline(fin[1], line))
+        prot[1].sequence += line;
 
-    if(!finCSV)
-        cout << "Can not open CSV" << endl;
-    string meropsID, cleavageSite;
+    return;
+}
 
-    vector<string> line;
-    line = getNextLineAndSplitIntoTokens(finCSV);
-    int n = 200000;
-    while(n-- && line.size() >= 3)
-    {
-        if(line.size() == 3){
-            meropsID = line[0];
-        }
-        else
-        {
-            cleavageSite = line[1];
-            string cutSequence, delimeters = "\"[\'] ";
+int main(int argc, char *argv[]) {
 
-            for(int i = 2; i < line.size(); i++){
-                for(char& c : delimeters)
-                {
-                    line[i].erase(remove(line[i].begin(), line[i].end(), c), line[i].end());
-                }
-                if(line[i].size() > 1)
-                    line[i] = "!";
-                cutSequence += line[i];
-            }
-            findCutSites(meropsID, cleavageSite, cutSequence, foutSpike, foutAce2);
-        }
-        line = getNextLineAndSplitIntoTokens(finCSV);
+    // Filename of sequence files
+    string dataFile;
+    Protein prot[2];
+    prot[0].name = argv[1];
+    prot[1].name = argv[2];
+    dataFile = "merops.csv";
+
+    // Check if the provided files are of .fasta format
+    if(prot[0].name.find(".fasta") == string::npos || prot[1].name.find(".fasta") == string::npos) {
+        cerr << "We only accept .fasta files for sequences!" << endl;
+        exit(-1);
     }
 
-    #ifdef DEBUG
-    cout << "========================" << endl;
-    cout << "Spike Protein Sequence:" << endl;
-    cout << spSequence << endl;
-    cout << "========================" << endl;
-    cout << "Ace2 Protein Sequence:" << endl;
-    cout << ace2Sequence << endl;
-    cout << "========================" << endl;
-    #endif
+    // Open Merops data file
+    ifstream finCSV;
+    finCSV.open(dataFile);
 
+    if(!finCSV) {
+        cerr << "Can not open " << dataFile << endl;
+        exit(-1);
+    }
+
+    // Input file
+    ifstream fin[2];
+    fin[0].open(prot[0].name);
+    fin[1].open(prot[1].name);
+
+    if(!fin[0] || !fin[1]) {
+        cerr << "File not found" << endl;
+        exit(-1);
+    }
+
+    // Remove extensions
+    prot[0].name = prot[0].name.substr(0, prot[0].name.find('.', 0));
+    prot[1].name = prot[1].name.substr(0, prot[1].name.find('.', 0));
+
+    // Output file
+    ofstream fout[2];
+    fout[0].open(prot[0].name + ".result");
+    fout[1].open(prot[1].name + ".result");
+    if(!fout[0] || !fout[1]) {
+        cerr << "Can not create file" << endl;
+        exit(-1);
+    }
+
+    // Read in designated .fasta files
+    readSequence(fin, prot);
+
+    Cut currentCut;
+
+    vector<string> line;
+    // Get first line
+    line = getTokenedLine(finCSV);
+    int n = 1000; // Specify the lines processed
+
+    while(n-- && line.size() >= 2) {
+
+        // if the line specfifies the merops ID
+        if(line[0].find('.') != string::npos) {
+            currentCut.meropsID = line[0];
+            currentCut.meropsName = line[1];
+        }
+
+        // if the line specfifies a cleavage site of the merops ID specified before
+        else {
+            currentCut.cleavageSite = line[0];
+
+            findCutSites(currentCut, prot, fout);
+
+            // Reset fin[]
+        }
+    }
+
+    // Close all file descriptors
     finCSV.close();
-    foutSpike.close();
-    foutAce2.close();
+    fin[0].close();
+    fin[1].close();
+    fout[0].close();
+    fout[1].close();
+
     return 0;
 }

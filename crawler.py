@@ -4,8 +4,9 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import os
 
-from datetime import datetime 
+from datetime import datetime
 
+# Amino Acid dictionary that maps protein to its abbreviation
 AA_table = {
     "Ala": "A", "Arg": "R", "Asn": "N", "Asp": "D", "Cys": "C", "Gln": "Q",
     "Glu": "E", "Gly": "G", "His": "H", "Ile": "I", "Leu": "L", "Lys": "K",
@@ -15,20 +16,14 @@ AA_table = {
 }
 
 def replace_AA(s, table):
+    # Replace amino acid with its abbr.
     for k, v in iter(table.items()):
         s = s.replace(k, v)
+
+    # Replace with * if it is an unknown AA
+    if len(s) > 1:
+        s = "*"
     return s
-
-replace_AA("Ala", AA_table)
-
-
-path = os.getcwd()
-filename = os.path.join(path,'merops.csv')    
-
-if os.path.exists(filename):
-    file = open(filename,"r+")
-    file.truncate(0)
-    file.close()
 
 baseUrl = "https://www.ebi.ac.uk/merops/cgi-bin/peptidase_specificity"
 
@@ -41,39 +36,42 @@ table = soup.find_all('table')[0]
 
 merops = []
 
+# Find all rows
 iterrows = iter(table.find_all('tr'))
 next(iterrows)
 for row in iterrows:
-    columns = row.find_all('td');    
-    merops.append([columns[0].get_text(), columns[2].get_text()])
+    columns = row.find_all('td');
+    merops.append([columns[0].get_text(), columns[1].get_text()])
 
+# For every different merop ID
 for merop in merops:
+
     url = "https://www.ebi.ac.uk/merops/cgi-bin/substrates?id=" + merop[0]
+
     r = requests.get(url)
+
     webContent2 = r.text
+
     soup = BeautifulSoup(webContent2, 'lxml')
     table = soup.find_all('table')[0]
     iterrows = iter(table.find_all('tr'))
     next(iterrows)
-    cleavageSites = []
-    Ps = []
+
+    # Write id and name
+    print(f"{merop[0]},{merop[1]}")
+
+    # Iterate through the rows
     for row in iterrows:
         columns = row.find_all('td')
-        cleavageSites.append(columns[3].get_text())
-        P = [columns[6].get_text(), columns[7].get_text(), columns[8].get_text(), columns[9].get_text(), columns[10].get_text(), columns[11].get_text(), columns[12].get_text(), columns[13].get_text()]
-        for i in range(len(P)):
-            P[i] = replace_AA(P[i], AA_table)
-        Ps.append(P)
-    
-    df = pd.DataFrame(
-    {"cleavageSites" : cleavageSites,
-    "P4~P4'" : Ps,
-    })
-    df.head()
-    f = open(filename, "a")
-    f.write(merop[0])
-    f.close()
-    df.to_csv(filename, mode = 'a')
+        cleavageSite = columns[3].get_text()
 
+        # Store the line that will be written
+        line = cleavageSite + ','
 
+        # Append the cut site residues
+        for i in range(6, 14):
+            replaced = replace_AA(str(columns[i].get_text()), AA_table)
+            line += f"{replaced}"
+
+        print(line)
 
